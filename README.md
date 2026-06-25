@@ -1,24 +1,20 @@
-# Olá, Mundo! 👋🌎
+# 👋 Olá, Mundo! 🌎
 
-## 🧑‍💻🪪 Estatísticas do meu GitHub
-<!-- antes -->
-<!-- <div align="center">
+Sou Alex Machado Ribeiro — desenvolvedor e instrutor técnico. Trabalho com projetos práticos e material didático, com foco em Python (Jupyter Notebooks, IA/ML, visão computacional), Java e desenvolvimento web com Flask e Django. Entre meus trabalhos estão sistemas de reconhecimento facial, aplicações de OCR, extração de texto e coleções de notebooks para ensino.
+
+Publico conteúdos e repositórios voltados ao aprendizado prático: exercícios, tutoriais e projetos demonstráveis que conectam teoria e aplicação.
+
+## 🧑‍💻 Linguagens com que mais trabalho
+
+<div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexmachadoribeiro&theme=dark&hide=jupyter%20notebook,portugol&locale=pt-br&langs_count=7&hide_border=true&layout=compact" alt="languages graph"  />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-alexmachado&theme=dark&hide=jupyter%20notebook&locale=pt-br&langs_count=8&hide_border=true&layout=pie" alt="languages graph"  />
   </a>
 </div>
 
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api?username=alexmachadoribeiro&show_icons=true&theme=dark&locale=pt-br&hide_border=true" alt="stats graph"  />
-  </a>
-</div> -->
+## 🪪 Estatísticas do meu GitHub
 
-<!-- depois -->
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-alexmachado&theme=dark&hide=jupyter%20notebook&locale=pt-br&langs_count=7&hide_border=true&layout=compact" alt="languages graph"  />
-  </a>
   <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api?username=dev-alexmachado&show_icons=true&theme=dark&locale=pt-br&hide_border=true" alt="stats graph"  />
   </a>
@@ -26,7 +22,7 @@
 
 ## 💻 Minhas tecnologias
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg" height="40" alt="firefox logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
@@ -82,7 +78,7 @@
 
 ###
 
-<!-- <div align="center">
+<div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=alexmachadoribeiro.alexmachadoribeiro&"  />
 </div>
 
@@ -100,6 +96,7 @@
 
 ###
 
+<!-- 
 ## 👨‍💻 Meu status
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexmachadoribeiro&theme=dark&hide=jupyter%20notebook,portugol&locale=pt-br&langs_count=7&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
