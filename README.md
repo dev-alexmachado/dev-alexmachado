@@ -79,12 +79,12 @@ Publico conteúdos e repositórios voltados ao aprendizado prático: exercícios
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=alexmachadoribeiro.alexmachadoribeiro&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=dev-alexmachado.dev-alexmachado&"  />
 </div>
 
 ###
 
-<img src="https://raw.githubusercontent.com/alexmachadoribeiro/alexmachadoribeiro/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/dev-alexmachado/dev-alexmachado/output/snake.svg" alt="Snake animation" />
 
 ###
 
