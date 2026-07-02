@@ -8,7 +8,7 @@ Publico conteúdos e repositórios voltados ao aprendizado prático: exercícios
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-alexmachado&theme=dark&hide=jupyter%20notebook&locale=pt-br&langs_count=8&hide_border=true&layout=pie" alt="languages graph"  />
+    <img src="https://github-readme-stats-extended.vercel.app/api/top-langs/?username=dev-alexmachado&theme=dark&hide=jupyter%20notebook&locale=pt-br&langs_count=8&hide_border=true&layout=pie" alt="languages graph"  />
   </a>
 </div>
 
@@ -16,7 +16,7 @@ Publico conteúdos e repositórios voltados ao aprendizado prático: exercícios
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api?username=dev-alexmachado&show_icons=true&theme=dark&locale=pt-br&hide_border=true" alt="stats graph"  />
+    <img src="https://github-readme-stats-extended.vercel.app/api?username=dev-alexmachado&show_icons=true&theme=dark&locale=pt-br&hide_border=true" alt="stats graph"  />
   </a>
 </div>
 
@@ -84,7 +84,7 @@ Publico conteúdos e repositórios voltados ao aprendizado prático: exercícios
 
 ###
 
-<img src="https://raw.githubusercontent.com/dev-alexmachado/dev-alexmachado/output/snake.svg" alt="Snake animation" />
+<!-- <img src="https://raw.githubusercontent.com/dev-alexmachado/dev-alexmachado/output/snake.svg" alt="Snake animation" />
 
 ###
 
@@ -94,9 +94,9 @@ Publico conteúdos e repositórios voltados ao aprendizado prático: exercícios
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/alexmachadoribeiro/alexmachadoribeiro/output/pacman-contribution-graph.svg">
 </picture>
 
-###
+### -->
 
-<!-- 
+<!--
 ## 👨‍💻 Meu status
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexmachadoribeiro&theme=dark&hide=jupyter%20notebook,portugol&locale=pt-br&langs_count=7&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
