@@ -12,8 +12,7 @@ Além disso, também sou escritor, com um livro publicado na loja da Amazon, em 
 
 ## 📖 Livros publicados
 
-(![Dossiê Python: Do Zero ao Projeto com Flask](image-1.png)
-![Contra-capa](https://m.media-amazon.com/images/I/51-SUVLyybL._SY522_.jpg)
+![Dossiê Python: Do Zero ao Projeto com Flask](image-1.png)
 
 Mais recentemente, também publiquei na Amazon o meu primeiro livro [**Dossiê Python: Do Zero ao Projeto com Flask**](https://www.amazon.com.br/s?k=dossi%C3%AA+python&crid=26EG7ZELF09OF&sprefix=%2Caps%2C283&ref=nb_sb_ss_recent_1_0_recent), destinado para iniciantes que queiram aprender lógica de programação, mas que também gostariam de, logo em seguida, desenvolver um projeto para chamar de seu. O livro foi publicado em duas versões: [e-book](https://www.amazon.com.br/Dossi%C3%AA-Python-Zero-Projeto-Flask-ebook/dp/B0HB98TZBR/ref=sr_1_2?crid=26EG7ZELF09OF&dib=eyJ2IjoiMSJ9.QrehVcqAgY5c9tL89dhi6jSNgs0-0Zv3Z0NOCOKv4bk.9B5GIyOk688w3PNSorAI4cnuD9v1KrgLjqIMKJa-qgE&dib_tag=se&keywords=dossi%C3%AA+python&qid=1784987724&sprefix=%2Caps%2C283&sr=8-2) e [livro físico capa comum](https://www.amazon.com.br/dp/B0HBGY2NPF/ref=sr_1_1?crid=26EG7ZELF09OF&dib=eyJ2IjoiMSJ9.QrehVcqAgY5c9tL89dhi6jSNgs0-0Zv3Z0NOCOKv4bk.9B5GIyOk688w3PNSorAI4cnuD9v1KrgLjqIMKJa-qgE&dib_tag=se&keywords=dossi%C3%AA+python&qid=1784987724&sprefix=%2Caps%2C283&sr=8-1&ufe=app_do%3Aamzn1.fos.2cac4462-e4ae-4f90-bce2-96d9085be8be).
 
