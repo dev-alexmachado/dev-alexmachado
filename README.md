@@ -1,8 +1,21 @@
 # 👋 Olá, Mundo! 🌎
 
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=dev-alexmachado.dev-alexmachado&"  />
+</div>
+
 Sou Alex Machado Ribeiro — desenvolvedor e instrutor técnico. Trabalho com projetos práticos e material didático, com foco em Python (Jupyter Notebooks, IA/ML, visão computacional), Java e desenvolvimento web com Flask e Django. Entre meus trabalhos estão sistemas de reconhecimento facial, aplicações de OCR, extração de texto e coleções de notebooks para ensino.
 
 Publico conteúdos e repositórios voltados ao aprendizado prático: exercícios, tutoriais e projetos demonstráveis que conectam teoria e aplicação.
+
+Além disso, também sou escritor, com um livro publicado na loja da Amazon, em versões e-book e capa comum.
+
+## 📖 Livros publicados
+
+![Dossiê Python: Do Zero ao Projeto com Flask](https://m.media-amazon.com/images/G/32/apparel/rcxgs/tile._CB483369971_.gif)
+![Contra-capa](https://m.media-amazon.com/images/I/51-SUVLyybL._SY522_.jpg)
+
+Mais recentemente, também publiquei na Amazon o meu primeiro livro [**Dossiê Python: Do Zero ao Projeto com Flask**](https://www.amazon.com.br/s?k=dossi%C3%AA+python&crid=26EG7ZELF09OF&sprefix=%2Caps%2C283&ref=nb_sb_ss_recent_1_0_recent), destinado para iniciantes que queiram aprender lógica de programação, mas que também gostariam de, logo em seguida, desenvolver um projeto para chamar de seu. O livro foi publicado em duas versões: [e-book](https://www.amazon.com.br/Dossi%C3%AA-Python-Zero-Projeto-Flask-ebook/dp/B0HB98TZBR/ref=sr_1_2?crid=26EG7ZELF09OF&dib=eyJ2IjoiMSJ9.QrehVcqAgY5c9tL89dhi6jSNgs0-0Zv3Z0NOCOKv4bk.9B5GIyOk688w3PNSorAI4cnuD9v1KrgLjqIMKJa-qgE&dib_tag=se&keywords=dossi%C3%AA+python&qid=1784987724&sprefix=%2Caps%2C283&sr=8-2) e [livro físico capa comum](https://www.amazon.com.br/dp/B0HBGY2NPF/ref=sr_1_1?crid=26EG7ZELF09OF&dib=eyJ2IjoiMSJ9.QrehVcqAgY5c9tL89dhi6jSNgs0-0Zv3Z0NOCOKv4bk.9B5GIyOk688w3PNSorAI4cnuD9v1KrgLjqIMKJa-qgE&dib_tag=se&keywords=dossi%C3%AA+python&qid=1784987724&sprefix=%2Caps%2C283&sr=8-1&ufe=app_do%3Aamzn1.fos.2cac4462-e4ae-4f90-bce2-96d9085be8be).
 
 ## 🧑‍💻 Linguagens com que mais trabalho
 
@@ -78,11 +91,6 @@ Publico conteúdos e repositórios voltados ao aprendizado prático: exercícios
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=dev-alexmachado.dev-alexmachado&"  />
-</div>
-
-###
 
 <!-- <img src="https://raw.githubusercontent.com/dev-alexmachado/dev-alexmachado/output/snake.svg" alt="Snake animation" />
 
