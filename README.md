@@ -1,36 +1,61 @@
 # 👋 Olá, Mundo! 🌎
 
-<div align="center">
+<p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=dev-alexmachado.dev-alexmachado&"  />
-</div>
+</p>
 
-Sou Alex Machado Ribeiro — desenvolvedor e instrutor técnico. Trabalho com projetos práticos e material didático, com foco em Python (Jupyter Notebooks, IA/ML, visão computacional), Java e desenvolvimento web com Flask e Django. Entre meus trabalhos estão sistemas de reconhecimento facial, aplicações de OCR, extração de texto e coleções de notebooks para ensino.
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="300px" max-width="300px" width="300px" align="right">
 
-Publico conteúdos e repositórios voltados ao aprendizado prático: exercícios, tutoriais e projetos demonstráveis que conectam teoria e aplicação.
+<p align="left">
+  Sou Alex Machado Ribeiro — desenvolvedor e instrutor técnico. Trabalho com projetos práticos e material didático, com foco em Python (Jupyter Notebooks, IA/ML, visão computacional), Java e desenvolvimento web com Flask e Django. Entre meus trabalhos estão sistemas de reconhecimento facial, aplicações de OCR, extração de texto e coleções de notebooks para ensino.
+</p>
 
-Além disso, também sou escritor, com um livro publicado na loja da Amazon, em versões e-book e capa comum.
+<p align="left">
+  Publico conteúdos e repositórios voltados ao aprendizado prático: exercícios, tutoriais e projetos demonstráveis que conectam teoria e aplicação.
+</p>
+
+<p align="left">
+  Além disso, também sou escritor, com um livro publicado na loja da Amazon, em versões e-book e capa comum.
+</p>
+
 
 ## 📖 Livros publicados
 
-![Dossiê Python: Do Zero ao Projeto com Flask](image-1.png)
+<div align="center">
+  <img src="img/capa.png" alt="Capa do livro Dossiê Python: Do Zero ao Projeto com Flask" width="400px" style="margin-bottom: 20px;">
+  <img src="img/contra_capa.jpg" alt="Capa do livro Dossiê Python: Do Zero ao Projeto com Flask" width="400px" style="margin-bottom: 20px;">
+</div>
 
-Mais recentemente, também publiquei na Amazon o meu primeiro livro [**Dossiê Python: Do Zero ao Projeto com Flask**](https://www.amazon.com.br/s?k=dossi%C3%AA+python&crid=26EG7ZELF09OF&sprefix=%2Caps%2C283&ref=nb_sb_ss_recent_1_0_recent), destinado para iniciantes que queiram aprender lógica de programação, mas que também gostariam de, logo em seguida, desenvolver um projeto para chamar de seu. O livro foi publicado em duas versões: [e-book](https://www.amazon.com.br/Dossi%C3%AA-Python-Zero-Projeto-Flask-ebook/dp/B0HB98TZBR/ref=sr_1_2?crid=26EG7ZELF09OF&dib=eyJ2IjoiMSJ9.QrehVcqAgY5c9tL89dhi6jSNgs0-0Zv3Z0NOCOKv4bk.9B5GIyOk688w3PNSorAI4cnuD9v1KrgLjqIMKJa-qgE&dib_tag=se&keywords=dossi%C3%AA+python&qid=1784987724&sprefix=%2Caps%2C283&sr=8-2) e [livro físico capa comum](https://www.amazon.com.br/dp/B0HBGY2NPF/ref=sr_1_1?crid=26EG7ZELF09OF&dib=eyJ2IjoiMSJ9.QrehVcqAgY5c9tL89dhi6jSNgs0-0Zv3Z0NOCOKv4bk.9B5GIyOk688w3PNSorAI4cnuD9v1KrgLjqIMKJa-qgE&dib_tag=se&keywords=dossi%C3%AA+python&qid=1784987724&sprefix=%2Caps%2C283&sr=8-1&ufe=app_do%3Aamzn1.fos.2cac4462-e4ae-4f90-bce2-96d9085be8be).
+<p>
+    Mais recentemente, também publiquei na Amazon o meu primeiro livro <a href="https://www.amazon.com.br/s?k=dossi%C3%AA+python&crid=26EG7ZELF09OF&sprefix=%2Caps%2C283&ref=nb_sb_ss_recent_1_0_recent"><b>Dossiê Python: Do Zero ao Projeto com Flask</b></a>, destinado para iniciantes que queiram aprender lógica de programação, mas que também gostariam de, logo em seguida, desenvolver um projeto para chamar de seu. Agradeço desde já a todos que me apoiarem e comprarem meu livro, pois foi feito com muito carinho e dedicação.
+</p>
+<p>
+  O livro foi desenvolvido em duas versões:
+</p>
+<ul>
+  <li><a href="https://www.amazon.com.br/Dossi%C3%AA-Python-Zero-Projeto-Flask-ebook/dp/B0HB98TZBR/ref=sr_1_2?crid=26EG7ZELF09OF&dib=eyJ2IjoiMSJ9.QrehVcqAgY5c9tL89dhi6jSNgs0-0Zv3Z0NOCOKv4bk.9B5GIyOk688w3PNSorAI4cnuD9v1KrgLjqIMKJa-qgE&dib_tag=se&keywords=dossi%C3%AA+python&qid=1784987724&sprefix=%2Caps%2C283&sr=8-2">Clique aqui para comprar a versão <b>e-book.</b></a></li>
+  <li><a href=https://www.amazon.com.br/dp/B0HBGY2NPF/ref=sr_1_1?crid=26EG7ZELF09OF&dib=eyJ2IjoiMSJ9.QrehVcqAgY5c9tL89dhi6jSNgs0-0Zv3Z0NOCOKv4bk.9B5GIyOk688w3PNSorAI4cnuD9v1KrgLjqIMKJa-qgE&dib_tag=se&keywords=dossi%C3%AA+python&qid=1784987724&sprefix=%2Caps%2C283&sr=8-1&ufe=app_do%3Aamzn1.fos.2cac4462-e4ae-4f90-bce2-96d9085be8be">Clique aqui para comprar a versão <b>física capa comum.</b></a></li>
+</ul>
+
+<!-- Mais recentemente, também publiquei na Amazon o meu primeiro livro [**Dossiê Python: Do Zero ao Projeto com Flask**](https://www.amazon.com.br/s?k=dossi%C3%AA+python&crid=26EG7ZELF09OF&sprefix=%2Caps%2C283&ref=nb_sb_ss_recent_1_0_recent), destinado para iniciantes que queiram aprender lógica de programação, mas que também gostariam de, logo em seguida, desenvolver um projeto para chamar de seu. O livro foi publicado em duas versões: [e-book](https://www.amazon.com.br/Dossi%C3%AA-Python-Zero-Projeto-Flask-ebook/dp/B0HB98TZBR/ref=sr_1_2?crid=26EG7ZELF09OF&dib=eyJ2IjoiMSJ9.QrehVcqAgY5c9tL89dhi6jSNgs0-0Zv3Z0NOCOKv4bk.9B5GIyOk688w3PNSorAI4cnuD9v1KrgLjqIMKJa-qgE&dib_tag=se&keywords=dossi%C3%AA+python&qid=1784987724&sprefix=%2Caps%2C283&sr=8-2) e [livro físico capa comum](https://www.amazon.com.br/dp/B0HBGY2NPF/ref=sr_1_1?crid=26EG7ZELF09OF&dib=eyJ2IjoiMSJ9.QrehVcqAgY5c9tL89dhi6jSNgs0-0Zv3Z0NOCOKv4bk.9B5GIyOk688w3PNSorAI4cnuD9v1KrgLjqIMKJa-qgE&dib_tag=se&keywords=dossi%C3%AA+python&qid=1784987724&sprefix=%2Caps%2C283&sr=8-1&ufe=app_do%3Aamzn1.fos.2cac4462-e4ae-4f90-bce2-96d9085be8be). -->
 
 ## 🧑‍💻 Linguagens com que mais trabalho
 
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
-    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=dev-alexmachado&theme=dark&hide=jupyter%20notebook&locale=pt-br&langs_count=8&hide_border=true&layout=pie" alt="languages graph"  />
+  <a href="https://github.com/stats-organization/github-stats-extended" target="_blank">
+    <img src="https://github-stats-extended.vercel.app/api/top-langs?username=dev-alexmachado&theme=dark&hide=jupyter%20notebook,TypeScript&locale=pt-br&langs_count=6&hide_border=true&layout=pie" alt="languages graph"  />
   </a>
 </div>
+<!-- https://github-stats-extended.vercel.app/api/top-langs?username=dev-alexmachado&layout=pie&langs_count=8&theme=date_night -->
 
 ## 🪪 Estatísticas do meu GitHub
 
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
-    <img src="https://github-stats-extended.vercel.app/api?username=dev-alexmachado&show_icons=true&theme=dark&locale=pt-br&hide_border=true" alt="stats graph"  />
+  <a href="https://github.com/stats-organization/github-stats-extended" target="_blank">
+    <img src="https://github-stats-extended.vercel.app/api?username=dev-alexmachado&show_icons=true&theme=dark&locale=pt-br&hide_border=true&rank_icon=percentile&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="stats graph"  />
   </a>
 </div>
+<!-- https://github-stats-extended.vercel.app/api?username=dev-alexmachado&rank_icon=percentile&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true&theme=dark&locale=pt-br&hide_border=true -->
 
 ## 💻 Minhas tecnologias
 
