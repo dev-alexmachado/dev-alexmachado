@@ -20,7 +20,7 @@ Mais recentemente, também publiquei na Amazon o meu primeiro livro [**Dossiê P
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
-    <img src="https://github-readme-stats-extended.vercel.app/api/top-langs/?username=dev-alexmachado&theme=dark&hide=jupyter%20notebook&locale=pt-br&langs_count=8&hide_border=true&layout=pie" alt="languages graph"  />
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=dev-alexmachado&theme=dark&hide=jupyter%20notebook&locale=pt-br&langs_count=8&hide_border=true&layout=pie" alt="languages graph"  />
   </a>
 </div>
 
@@ -28,7 +28,7 @@ Mais recentemente, também publiquei na Amazon o meu primeiro livro [**Dossiê P
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
-    <img src="https://github-readme-stats-extended.vercel.app/api?username=dev-alexmachado&show_icons=true&theme=dark&locale=pt-br&hide_border=true" alt="stats graph"  />
+    <img src="https://github-stats-extended.vercel.app/api?username=dev-alexmachado&show_icons=true&theme=dark&locale=pt-br&hide_border=true" alt="stats graph"  />
   </a>
 </div>
 
