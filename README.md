@@ -4,14 +4,14 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=dev-alexmachado.dev-alexmachado&"  />
 </p>
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="300px" max-width="300px" width="300px" align="right">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="350px" max-width="350px" width="350px" align="right" style="margin-left: 50px">
 
 <p align="left">
-  Sou Alex Machado Ribeiro — desenvolvedor e instrutor técnico. Trabalho com projetos práticos e material didático, com foco em Python (Jupyter Notebooks, IA/ML, visão computacional), Java e desenvolvimento web com Flask e Django. Entre meus trabalhos estão sistemas de reconhecimento facial, aplicações de OCR, extração de texto e coleções de notebooks para ensino.
+  Sou Alex Machado Ribeiro — desenvolvedor e instrutor técnico. Trabalho com projetos práticos e material didático, com foco em Python (Jupyter Notebooks, IA/ML, visão computacional), Java e desenvolvimento web com Flask e Django. Tenho graduação em Bacharel em Sistemas de Informação. Trabalho como professor e desenvolvedor da área há mais de 20 anos. Atualmente sou instrutor de TI dos cursos de qualificação e técnico do SENAI-DF de programação.
 </p>
 
 <p align="left">
-  Publico conteúdos e repositórios voltados ao aprendizado prático: exercícios, tutoriais e projetos demonstráveis que conectam teoria e aplicação.
+  Publico conteúdos e repositórios voltados ao aprendizado prático: exercícios, tutoriais e projetos demonstráveis que conectam teoria e aplicação. Entre meus trabalhos estão sistemas de reconhecimento facial, aplicações de OCR, extração de texto e coleções de notebooks para ensino.
 </p>
 
 <p align="left">
@@ -21,9 +21,9 @@
 
 ## 📖 Livros publicados
 
-<div align="center">
-  <img src="img/capa.png" alt="Capa do livro Dossiê Python: Do Zero ao Projeto com Flask" width="400px" style="margin-bottom: 20px;">
-  <img src="img/contra_capa.jpg" alt="Capa do livro Dossiê Python: Do Zero ao Projeto com Flask" width="400px" style="margin-bottom: 20px;">
+<div align="center" style="margin-bottom: 50px">
+  <img src="img/capa.png" alt="Capa do livro Dossiê Python: Do Zero ao Projeto com Flask" width="300px">
+  <img src="img/contra_capa.jpg" alt="Capa do livro Dossiê Python: Do Zero ao Projeto com Flask" width="300px";">
 </div>
 
 <p>
