@@ -22,11 +22,7 @@
   </p>
 
   <p align="left">
-    Publico conteúdos e repositórios voltados ao aprendizado prático: exercícios, tutoriais e projetos demonstráveis que conectam teoria e aplicação. Entre meus trabalhos estão sistemas de reconhecimento facial, aplicações de OCR, extração de texto e coleções de notebooks para ensino.
-  </p>
-
-  <p align="left">
-    Além disso, também sou escritor, com um livro publicado na loja da Amazon, em versões e-book e capa comum.
+    Publico conteúdos e repositórios voltados ao aprendizado prático: exercícios, tutoriais e projetos demonstráveis que conectam teoria e aplicação. Entre meus trabalhos estão sistemas de reconhecimento facial, aplicações de OCR, extração de texto e coleções de notebooks para ensino. Além disso, também sou escritor, com um livro publicado na loja da Amazon, em versões e-book e capa comum.
   </p>
 
 
