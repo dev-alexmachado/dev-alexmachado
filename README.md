@@ -1,5 +1,5 @@
 <div>
-  <img src="img/banner.png" style="min-width: 100%" />
+  <img src="img/banner.png" alt="banner" style="min-width: 100%" />
 </div>
 
 # 👋 Olá, Mundo! 🌎
