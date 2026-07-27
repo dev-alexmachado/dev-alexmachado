@@ -7,11 +7,12 @@
 
   <div style="margin: 0px 50px">
 
-  # 👋 Olá, Mundo! 🌎
-
   <p align="center">
     <img src="https://visitor-badge.laobi.icu/badge?page_id=dev-alexmachado.dev-alexmachado&"  />
   </p>
+
+  # 👋 Olá, Mundo! 🌎
+
 
   <img src="img/computer-code.png" alt="ilustração de um computador" min-width="300px" max-width="300px" width="300px" align="right" style="margin-left: 50px">
 
@@ -30,12 +31,12 @@
 
   ## 📖 Livros publicados
 
-  <div align="center" style="margin-bottom: 50px">
+  <div align="center">
     <img src="img/capa.png" alt="Capa do livro Dossiê Python: Do Zero ao Projeto com Flask" width="300px">
     <img src="img/contra_capa.jpg" alt="Capa do livro Dossiê Python: Do Zero ao Projeto com Flask" width="300px";">
   </div>
 
-  <p>
+  <p style="margin-top: 50px">
       Mais recentemente, também publiquei na Amazon o meu primeiro livro <a href="https://www.amazon.com.br/s?k=dossi%C3%AA+python&crid=26EG7ZELF09OF&sprefix=%2Caps%2C283&ref=nb_sb_ss_recent_1_0_recent"><b>Dossiê Python: Do Zero ao Projeto com Flask</b></a>, destinado para iniciantes que queiram aprender lógica de programação, mas que também gostariam de, logo em seguida, desenvolver um projeto para chamar de seu. Agradeço desde já a todos que me apoiarem e comprarem meu livro, pois foi feito com muito carinho e dedicação.
   </p>
   <p>
