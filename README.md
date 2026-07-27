@@ -1,10 +1,14 @@
+<div>
+  <img src="img/banner.png" style="min-width: 100%" />
+</div>
+
 # 👋 Olá, Mundo! 🌎
 
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=dev-alexmachado.dev-alexmachado&"  />
 </p>
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="350px" max-width="350px" width="350px" align="right" style="margin-left: 50px">
+<img src="img/computer-code.png" alt="ilustração de um computador" min-width="375px" max-width="375px" width="375px" align="right" style="margin-left: 50px">
 
 <p align="left">
   Sou Alex Machado Ribeiro — desenvolvedor e instrutor técnico. Trabalho com projetos práticos e material didático, com foco em Python (Jupyter Notebooks, IA/ML, visão computacional), Java e desenvolvimento web com Flask e Django. Tenho graduação em Bacharel em Sistemas de Informação. Trabalho como professor e desenvolvedor da área há mais de 20 anos. Atualmente sou instrutor de TI dos cursos de qualificação e técnico do SENAI-DF de programação.
