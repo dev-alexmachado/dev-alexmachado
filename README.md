@@ -21,12 +21,14 @@
 ## 📖 Livros publicados
 
 <p align="center">
-  <img src="img/capa.png" alt="Capa do livro Dossiê Python: Do Zero ao Projeto com Flask" width="300px">
-  <img src="img/contra_capa.jpg" alt="Capa do livro Dossiê Python: Do Zero ao Projeto com Flask" width="300px";">
+  <a href="https://www.amazon.com.br/Dossi%C3%AA-Python-Zero-Projeto-Flask-ebook/dp/B0HB98TZBR/ref=tmm_kin_swatch_0?_encoding=UTF8&dib_tag=se&dib=eyJ2IjoiMSJ9.vD_tRVW_joAzf7agUEkpUQ.Xjin22abUCqijY8A6E0sH4X5bh44E60OG1pDAETHUHw&qid=1785261162&sr=8-1" target="_blank">
+    <img src="img/capa.png" alt="Capa do livro Dossiê Python: Do Zero ao Projeto com Flask" width="300px">
+    <img src="img/contra_capa.jpg" alt="Capa do livro Dossiê Python: Do Zero ao Projeto com Flask" width="300px";">
+  </a>
 </p>
 
 <p style="margin-top: 50px">
-    Mais recentemente, também publiquei na Amazon o meu primeiro livro <a href="https://www.amazon.com.br/s?k=dossi%C3%AA+python&crid=26EG7ZELF09OF&sprefix=%2Caps%2C283&ref=nb_sb_ss_recent_1_0_recent"><b>Dossiê Python: Do Zero ao Projeto com Flask</b></a>, destinado para iniciantes que queiram aprender lógica de programação, mas que também gostariam de, logo em seguida, desenvolver um projeto para chamar de seu. Agradeço desde já a todos que me apoiarem e comprarem meu livro, pois foi feito com muito carinho e dedicação.
+    Mais recentemente, também publiquei na Amazon o meu primeiro livro <a href="https://www.amazon.com.br/Dossi%C3%AA-Python-Zero-Projeto-Flask-ebook/dp/B0HB98TZBR/ref=tmm_kin_swatch_0?_encoding=UTF8&dib_tag=se&dib=eyJ2IjoiMSJ9.vD_tRVW_joAzf7agUEkpUQ.Xjin22abUCqijY8A6E0sH4X5bh44E60OG1pDAETHUHw&qid=1785261162&sr=8-1" target="_blank"><b>Dossiê Python: Do Zero ao Projeto com Flask</b></a>, destinado para iniciantes que queiram aprender lógica de programação, mas que também gostariam de, logo em seguida, desenvolver um projeto para chamar de seu. Agradeço desde já a todos que me apoiarem e comprarem meu livro, pois foi feito com muito carinho e dedicação.
 </p>
 <p>
   O livro está disponível em e-book, kindle unlimited e capa comum <a href="https://www.amazon.com.br/Dossi%C3%AA-Python-Zero-Projeto-Flask-ebook/dp/B0HB98TZBR/ref=tmm_kin_swatch_0?_encoding=UTF8&dib_tag=se&dib=eyJ2IjoiMSJ9.vD_tRVW_joAzf7agUEkpUQ.Xjin22abUCqijY8A6E0sH4X5bh44E60OG1pDAETHUHw&qid=1785261162&sr=8-1" target="_blank">neste link</a>.
