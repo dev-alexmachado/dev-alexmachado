@@ -115,14 +115,6 @@
 
 - [GitHub para Iniciantes](github.com/dev-alexmachado/comandos_git)
 
-## 🐍 Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dev-alexmachado/dev-alexmachado/output/snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dev-alexmachado/dev-alexmachado/output/snake.svg">
-  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/dev-alexmachado/dev-alexmachado/output/snake.svg">
-</picture>
-
 
 
 <!--
