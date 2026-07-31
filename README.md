@@ -113,7 +113,7 @@
 
 ## 👨‍🏫 Tutoriais
 
-- [GitHub para Iniciantes](github.com/dev-alexmachado/comandos_git)
+- [GitHub para Iniciantes](https://github.com/dev-alexmachado/comandos_git)
 
 
 
