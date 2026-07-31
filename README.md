@@ -111,20 +111,19 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle logo"  />
 </div>
 
-### 
+## 👨‍🏫 Tutoriais
 
+- [GitHub para Iniciantes](github.com/dev-alexmachado/comandos_git)
 
-<!-- <img src="https://raw.githubusercontent.com/dev-alexmachado/dev-alexmachado/output/snake.svg" alt="Snake animation" />
-
-###
+## 🐍 Snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alexmachadoribeiro/alexmachadoribeiro/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alexmachadoribeiro/alexmachadoribeiro/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/alexmachadoribeiro/alexmachadoribeiro/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dev-alexmachado/dev-alexmachado/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dev-alexmachado/dev-alexmachado/output/snake.svg">
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/dev-alexmachado/dev-alexmachado/output/snake.svg">
 </picture>
 
-### -->
+
 
 <!--
 ## 👨‍💻 Meu status
