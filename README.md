@@ -41,7 +41,7 @@
 
 <div align="center">
   <a href="https://github.com/stats-organization/github-stats-extended" target="_blank">
-    <img src="https://github-stats-extended.vercel.app/api/top-langs?username=dev-alexmachado&theme=dark&hide=jupyter%20notebook,TypeScript&locale=pt-br&langs_count=6&hide_border=true&layout=pie" alt="languages graph"  />
+    <img src="https://github-stats-extended.vercel.app/api/top-langs?username=dev-alexmachado&theme=dark&hide=jupyter%20notebook,TypeScript,Portugol&locale=pt-br&langs_count=6&hide_border=true&layout=pie" alt="languages graph"  />
   </a>
 </div>
 <!-- https://github-stats-extended.vercel.app/api/top-langs?username=dev-alexmachado&layout=pie&langs_count=8&theme=date_night -->
@@ -114,6 +114,7 @@
 ## 👨‍🏫 Tutoriais
 
 - [GitHub para Iniciantes](https://github.com/dev-alexmachado/comandos_git)
+- [Guia Rápido de Python](https://github.com/dev-alexmachado/guia_rapido_python)
 
 
 
