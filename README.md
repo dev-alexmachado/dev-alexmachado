@@ -116,6 +116,11 @@
 - [Git para Iniciantes](https://github.com/dev-alexmachado/comandos_git)
 - [Guia Rápido de Python](https://github.com/dev-alexmachado/guia_rapido_python)
 
+## 🧑‍🎓 Repositórios das turmas atuais
+
+- Turma da tarde: NEM: Técnico em Informática para a Internet - [Django: sistema NEMSYS](https://github.com/dev-alexmachado/nemsys)
+- Turma da noite: [Desenvolvedor Python](https://github.com/dev-alexmachado/desenvolvedor_python_qua.544.003)
+
 
 
 <!--
