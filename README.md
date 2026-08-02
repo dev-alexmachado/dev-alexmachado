@@ -113,7 +113,7 @@
 
 ## 👨‍🏫 Tutoriais
 
-- [GitHub para Iniciantes](https://github.com/dev-alexmachado/comandos_git)
+- [Git para Iniciantes](https://github.com/dev-alexmachado/comandos_git)
 - [Guia Rápido de Python](https://github.com/dev-alexmachado/guia_rapido_python)
 
 
