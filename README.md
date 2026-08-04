@@ -8,7 +8,9 @@
 
 # 👋 Olá, Mundo! 🌎
 
-<img src="img/computer-code.png" alt="ilustração de um computador" min-width="350px" max-width="350px" width="350px" align="right" style="margin-left: 50px">
+<a href="https://portaleducacao.sistemafibra.org.br/FrameHTML/web/app/Edu/PortaldoProfessor/#/login">
+  <img src="img/computer-code.png" alt="Link para novo portal docente" min-width="350px" max-width="350px" width="350px" align="right" style="margin-left: 50px">
+</a>
 
 <p align="left">
   Sou <b>Alex Machado Ribeiro</b> — desenvolvedor e instrutor técnico. Trabalho com projetos práticos e material didático, com foco em Python (Jupyter Notebooks, IA/ML, visão computacional), Java e desenvolvimento web com Flask e Django. Tenho graduação em Bacharel em Sistemas de Informação. Trabalho como professor e desenvolvedor da área há mais de 20 anos. Atualmente sou instrutor de TI dos cursos de qualificação e técnico do SENAI-DF de programação.
