@@ -39,11 +39,13 @@
 <!-- Mais recentemente, também publiquei na Amazon o meu primeiro livro [**Dossiê Python: Do Zero ao Projeto com Flask**](https://www.amazon.com.br/s?k=dossi%C3%AA+python&crid=26EG7ZELF09OF&sprefix=%2Caps%2C283&ref=nb_sb_ss_recent_1_0_recent), destinado para iniciantes que queiram aprender lógica de programação, mas que também gostariam de, logo em seguida, desenvolver um projeto para chamar de seu. O livro foi publicado em duas versões: [e-book](https://www.amazon.com.br/Dossi%C3%AA-Python-Zero-Projeto-Flask-ebook/dp/B0HB98TZBR/ref=sr_1_2?crid=26EG7ZELF09OF&dib=eyJ2IjoiMSJ9.QrehVcqAgY5c9tL89dhi6jSNgs0-0Zv3Z0NOCOKv4bk.9B5GIyOk688w3PNSorAI4cnuD9v1KrgLjqIMKJa-qgE&dib_tag=se&keywords=dossi%C3%AA+python&qid=1784987724&sprefix=%2Caps%2C283&sr=8-2) e [livro físico capa comum](https://www.amazon.com.br/dp/B0HBGY2NPF/ref=sr_1_1?crid=26EG7ZELF09OF&dib=eyJ2IjoiMSJ9.QrehVcqAgY5c9tL89dhi6jSNgs0-0Zv3Z0NOCOKv4bk.9B5GIyOk688w3PNSorAI4cnuD9v1KrgLjqIMKJa-qgE&dib_tag=se&keywords=dossi%C3%AA+python&qid=1784987724&sprefix=%2Caps%2C283&sr=8-1&ufe=app_do%3Aamzn1.fos.2cac4462-e4ae-4f90-bce2-96d9085be8be). -->
 
 
-## 🧑‍💻 Linguagens com que mais trabalho
+## 🧑‍💻 Linguagens mais usadas
 
 <div align="center">
   <a href="https://github.com/stats-organization/github-stats-extended" target="_blank">
-    <img src="https://github-stats-extended.vercel.app/api/top-langs?username=dev-alexmachado&theme=dark&hide=jupyter%20notebook,TypeScript,Portugol&locale=pt-br&langs_count=6&hide_border=true&layout=pie" alt="languages graph"  />
+    <!-- <img src="https://github-stats-extended.vercel.app/api/top-langs?username=dev-alexmachado&theme=dark&hide=jupyter%20notebook,TypeScript,Portugol&locale=pt-br&langs_count=6&hide_border=true&layout=pie" alt="languages graph" /> -->
+    <img src="https://github-stats-extended.vercel.app/api/top-langs?username=dev-alexmachado&theme=dark&hide=jupyter%20notebook,TypeScript,Portugol&locale=pt-br&langs_count=6&hide_border=true&layout=pie&custom_title=Porcentagem&size_weight=0.5&count_weight=0.5" alt="languages graph" />
+    <img src="https://github-stats-extended.vercel.app/api/top-langs?username=dev-alexmachado&theme=dark&hide=jupyter%20notebook,TypeScript,Portugol&locale=pt-br&langs_count=7&hide_border=true&layout=normal&stats_format=bytes&custom_title=Tamanho&size_weight=0.5&count_weight=0.5" alt="languages graph"/>
   </a>
 </div>
 <!-- https://github-stats-extended.vercel.app/api/top-langs?username=dev-alexmachado&layout=pie&langs_count=8&theme=date_night -->
