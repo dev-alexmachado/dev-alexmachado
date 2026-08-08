@@ -117,9 +117,9 @@
 
 ## 👨‍🏫 Tutoriais
 
-- [Git para Iniciantes](https://github.com/dev-alexmachado/comandos_git)
-- [Atalhos para o VSCode](https://github.com/dev-alexmachado/atalhos-vscode)
-- [Guia Rápido de Python](https://github.com/dev-alexmachado/guia_rapido_python)
+- [Git para Iniciantes](https://github.com/dev-alexmachado/comandos_git/README.md)
+- [Atalhos para o VSCode](https://github.com/dev-alexmachado/atalhos-vscode/README.md)
+- [Guia Rápido de Python](https://github.com/dev-alexmachado/guia_rapido_python/README.md)
 
 ## 🧑‍🎓 Repositórios das turmas atuais
 
