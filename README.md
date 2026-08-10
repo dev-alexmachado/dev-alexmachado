@@ -54,7 +54,7 @@
 
 <div align="center">
   <a href="https://github.com/stats-organization/github-stats-extended" target="_blank">
-    <img src="https://github-stats-extended.vercel.app/api?username=dev-alexmachado&show_icons=true&theme=dark&locale=pt-br&hide_border=true&rank_icon=percentile&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="stats graph"  />
+    <img src="https://github-stats-extended.vercel.app/api?username=dev-alexmachado&show_icons=true&theme=dark&locale=pt-br&hide_border=true&rank_icon=percentile&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&card_width=600px" alt="stats graph"  />
   </a>
 </div>
 <!-- https://github-stats-extended.vercel.app/api?username=dev-alexmachado&rank_icon=percentile&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true&theme=dark&locale=pt-br&hide_border=true -->
