@@ -118,9 +118,11 @@
 
 ## 👨‍🏫 Tutoriais
 
-<!-- [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=dev-alexmachado&repo=guia_rapido_python&theme=github_dark)](https://github.com/dev-alexmachado/guia_rapido_python) -->
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=dev-alexmachado&repo=atalhos-vscode&theme=github_dark)](https://github.com/dev-alexmachado/atalhos-vscode)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=dev-alexmachado&repo=atalhos-vscode&theme=github_dark)](https://github.com/dev-alexmachado/comandos_git)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=dev-alexmachado&repo=guia_rapido_python&theme=github_dark)](https://github.com/dev-alexmachado/guia_rapido_python)
 
-<div align="center">
+<!-- <div align="center">
   <div style="float:left;width:50%;margin-bottom:50px">
   <h3>Atalhos Visual Studio Code</h3>
     <a href="https://github.com/dev-alexmachado/atalhos-vscode">
@@ -139,7 +141,7 @@
       <img src="https://github-stats-extended.vercel.app/api/pin?username=dev-alexmachado&repo=guia_rapido_python&theme=github_dark">
     </a>
   </div>
-</div>
+</div> -->
 
 
 
