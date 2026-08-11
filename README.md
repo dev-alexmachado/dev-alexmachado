@@ -44,7 +44,6 @@
 
 <div align="center">
   <a href="https://github.com/stats-organization/github-stats-extended" target="_blank">
-    <!-- <img src="https://github-stats-extended.vercel.app/api/top-langs?username=dev-alexmachado&theme=dark&hide=jupyter%20notebook,TypeScript,Portugol&locale=pt-br&langs_count=6&hide_border=true&layout=pie" alt="languages graph" /> -->
     <img src="https://github-stats-extended.vercel.app/api/top-langs?username=dev-alexmachado&theme=dark&hide=jupyter%20notebook,TypeScript,Portugol&locale=pt-br&langs_count=6&hide_border=true&layout=pie&custom_title=Porcentagem&size_weight=0.5&count_weight=0.5" alt="languages graph" />
     <img src="https://github-stats-extended.vercel.app/api/top-langs?username=dev-alexmachado&theme=dark&hide=jupyter%20notebook,TypeScript,Portugol&locale=pt-br&langs_count=7&hide_border=true&layout=normal&stats_format=bytes&custom_title=Tamanho&size_weight=0.5&count_weight=0.5" alt="languages graph"/>
   </a>
@@ -151,8 +150,8 @@
 
 ## 🧑‍🎓 Repositórios das turmas atuais
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=dev-alexmachado&repo=nemsys&theme=github_dark)](https://github.com/dev-alexmachado/nemsys)
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=dev-alexmachado&repo=desenvolvedor_python_qua.544.003&theme=github_dark)](https://github.com/dev-alexmachado/desenvolvedor_python_qua.544.003)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=dev-alexmachado&repo=dev-alexmachado%2Fnemsys&theme=github_dark)](https://github.com/dev-alexmachado/nemsys)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=dev-alexmachado&repo=dev-alexmachado%2Fdesenvolvedor_python_qua.544.003&theme=github_dark)](https://github.com/dev-alexmachado/desenvolvedor_python_qua.544.003)
 
 <!-- <div style="float:left">
   <a href="https://github.com/dev-alexmachado/nemsys">
