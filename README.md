@@ -118,14 +118,58 @@
 
 ## 👨‍🏫 Tutoriais
 
+<!-- [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=dev-alexmachado&repo=guia_rapido_python&theme=github_dark)](https://github.com/dev-alexmachado/guia_rapido_python) -->
+
+<div align="center">
+  <div style="float:left;width:50%;margin-bottom:50px">
+  <h3>Atalhos Visual Studio Code</h3>
+    <a href="https://github.com/dev-alexmachado/atalhos-vscode">
+      <img src="https://github-stats-extended.vercel.app/api/pin?username=dev-alexmachado&repo=atalhos-vscode&theme=github_dark">
+    </a>
+  </div>
+  <div style="float:right;width:50%;margin-bottom:50px">
+  <h3>Comandos Git para iniciantes</h3>
+    <a href="https://github.com/dev-alexmachado/comandos_git">
+      <img src="https://github-stats-extended.vercel.app/api/pin?username=dev-alexmachado&repo=comandos_git&theme=github_dark">
+    </a>
+  </div>
+  <div style="width:50%;margin-bottom:50px">
+  <h3>Guia Rápido de Python</h3>
+    <a href="https://github.com/dev-alexmachado/guia_rapido_python">
+      <img src="https://github-stats-extended.vercel.app/api/pin?username=dev-alexmachado&repo=guia_rapido_python&theme=github_dark">
+    </a>
+  </div>
+</div>
+
+
+
+<!-- - [Atalhos para o VSCode](https://github.com/dev-alexmachado/atalhos-vscode)
 - [Git para Iniciantes](https://github.com/dev-alexmachado/comandos_git)
-- [Atalhos para o VSCode](https://github.com/dev-alexmachado/atalhos-vscode)
-- [Guia Rápido de Python](https://github.com/dev-alexmachado/guia_rapido_python)
+- [Guia Rápido de Python](https://github.com/dev-alexmachado/guia_rapido_python) -->
 
 ## 🧑‍🎓 Repositórios das turmas atuais
 
-- Turma da tarde: NEM: Técnico em Informática para a Internet - [Django: sistema NEMSYS](https://github.com/dev-alexmachado/nemsys)
-- Turma da noite: [Desenvolvedor Python](https://github.com/dev-alexmachado/desenvolvedor_python_qua.544.003)
+<div align="center">
+  <div style="float:left">
+  <h3>Turma da Tarde</h3>
+  <h3>TEC.043.004</h3>
+  <h4>Técnico em Informática para Internet - Projeto Back-End</h4>
+    <a href="https://github.com/dev-alexmachado/nemsys">
+      <img src="https://github-stats-extended.vercel.app/api/pin?username=dev-alexmachado&repo=nemsys&theme=github_dark">
+    </a>
+  </div>
+  <div style="float:right">
+  <h3>Turma da Noite</h3>
+  <h3>QUA.544.003</h3>
+  <h4>Desenvolvedor Python</h4>
+    <a href="https://github.com/dev-alexmachado/desenvolvedor_python_qua.544.003">
+      <img src="https://github-stats-extended.vercel.app/api/pin?username=dev-alexmachado&repo=desenvolvedor_python_qua.544.003&theme=github_dark">
+    </a>
+  </div>
+</div>
+
+<!-- - Turma da tarde: NEM: Técnico em Informática para a Internet - [Django: sistema NEMSYS](https://github.com/dev-alexmachado/nemsys)
+- Turma da noite: [Desenvolvedor Python](https://github.com/dev-alexmachado/desenvolvedor_python_qua.544.003) -->
 
 
 
