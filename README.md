@@ -4,7 +4,7 @@
 
 <p align="center">
   <!-- <img src="https://visitor-badge.laobi.icu/badge?page_id=dev-alexmachado.dev-alexmachado&"  /> -->
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=dev-alexmachado.dev-alexmachado&left_text=visitors&right_color=%2316161d&logo=github" alt="visitor badge"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=dev-alexmachado.dev-alexmachado&left_text=visitors&right_color=%2316161d&logo=github&height=25" alt="visitor badge"/>
 </p>
 
 # 👋 Olá, Mundo! 🌎
