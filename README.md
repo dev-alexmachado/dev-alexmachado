@@ -153,48 +153,10 @@
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=dev-alexmachado&repo=dev-alexmachado%2Fnemsys&theme=github_dark)](https://github.com/dev-alexmachado/nemsys)
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=dev-alexmachado&repo=dev-alexmachado%2Fdesenvolvedor_python_qua.544.003&theme=github_dark)](https://github.com/dev-alexmachado/desenvolvedor_python_qua.544.003)
 
-<!-- <div style="float:left">
-  <a href="https://github.com/dev-alexmachado/nemsys">
-    <img src="https://github-stats-extended.vercel.app/api/pin?username=dev-alexmachado&repo=nemsys&theme=github_dark">
-  </a>
-</div>
-<div style="float:left; margin: 0px 0px 20px 20px;">
-  <h3>Turma da tarde</h3>
-  <h4>TEC.043.004</h4>
-  <h4>Técnico em Informática para Internet - Projeto Back-End</h4>
-</div>
-<div style="float:left">
-  <a href="https://github.com/dev-alexmachado/desenvolvedor_python_qua.544.003">
-    <img src="https://github-stats-extended.vercel.app/api/pin?username=dev-alexmachado&repo=desenvolvedor_python_qua.544.003&theme=github_dark">
-  </a>
-</div>
-<div style="float:left; margin: 0px 0px 20px 20px">
-  <h3>Turma da noite</h3>
-  <h4>QUA.544.003</h4>
-  <h4>Desenvolvedor Python</h4>
-</div> -->
 
-<!-- <div align="center">
-  <div style="float:left">
-  <h3>Turma da Tarde</h3>
-  <h3>TEC.043.004</h3>
-  <h4>Técnico em Informática para Internet - Projeto Back-End</h4>
-    <a href="https://github.com/dev-alexmachado/nemsys">
-      <img src="https://github-stats-extended.vercel.app/api/pin?username=dev-alexmachado&repo=nemsys&theme=github_dark">
-    </a>
-  </div>
-  <div style="float:right">
-  <h3>Turma da Noite</h3>
-  <h3>QUA.544.003</h3>
-  <h4>Desenvolvedor Python</h4>
-    <a href="https://github.com/dev-alexmachado/desenvolvedor_python_qua.544.003">
-      <img src="https://github-stats-extended.vercel.app/api/pin?username=dev-alexmachado&repo=desenvolvedor_python_qua.544.003&theme=github_dark">
-    </a>
-  </div>
-</div> -->
+---
 
-<!-- - Turma da tarde: NEM: Técnico em Informática para a Internet - [Django: sistema NEMSYS](https://github.com/dev-alexmachado/nemsys)
-- Turma da noite: [Desenvolvedor Python](https://github.com/dev-alexmachado/desenvolvedor_python_qua.544.003) -->
+<img src="img/acrade-contributions.svg" alt="bomberman">
 
 
 
