@@ -119,7 +119,7 @@
 ## 👨‍🏫 Tutoriais
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=dev-alexmachado&repo=atalhos-vscode&theme=github_dark)](https://github.com/dev-alexmachado/atalhos-vscode)
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=dev-alexmachado&repo=atalhos-vscode&theme=github_dark)](https://github.com/dev-alexmachado/comandos_git)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=dev-alexmachado&repo=comandos_git&theme=github_dark)](https://github.com/dev-alexmachado/comandos_git)
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=dev-alexmachado&repo=guia_rapido_python&theme=github_dark)](https://github.com/dev-alexmachado/guia_rapido_python)
 
 <!-- <div align="center">
@@ -151,7 +151,10 @@
 
 ## 🧑‍🎓 Repositórios das turmas atuais
 
-<div style="float:left">
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=dev-alexmachado&repo=nemsys&theme=github_dark)](https://github.com/dev-alexmachado/nemsys)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=dev-alexmachado&repo=desenvolvedor_python_qua.544.003&theme=github_dark)](https://github.com/dev-alexmachado/desenvolvedor_python_qua.544.003)
+
+<!-- <div style="float:left">
   <a href="https://github.com/dev-alexmachado/nemsys">
     <img src="https://github-stats-extended.vercel.app/api/pin?username=dev-alexmachado&repo=nemsys&theme=github_dark">
   </a>
@@ -170,7 +173,7 @@
   <h3>Turma da noite</h3>
   <h4>QUA.544.003</h4>
   <h4>Desenvolvedor Python</h4>
-</div>
+</div> -->
 
 <!-- <div align="center">
   <div style="float:left">
