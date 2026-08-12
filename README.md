@@ -115,16 +115,13 @@
 ## 👨‍🏫 Tutoriais
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=dev-alexmachado&repo=dev-alexmachado%2Fatalhos-vscode&theme=one_dark_pro)](https://github.com/dev-alexmachado/atalhos-vscode)
-
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=dev-alexmachado&repo=dev-alexmachado%2Fcomandos_git&theme=one_dark_pro)](https://github.com/dev-alexmachado/comandos_git)
-
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=dev-alexmachado&repo=dev-alexmachado%2Fguia_rapido_python&theme=one_dark_pro)](https://github.com/dev-alexmachado/guia_rapido_python)
 
 
 ## 🧑‍🎓 Repositórios das turmas atuais
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=dev-alexmachado&repo=dev-alexmachado%2Fnemsys&theme=one_dark_pro)](https://github.com/dev-alexmachado/nemsys)
-
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=dev-alexmachado&repo=dev-alexmachado%2Fdesenvolvedor_python_qua.544.003&theme=one_dark_pro)](https://github.com/dev-alexmachado/desenvolvedor_python_qua.544.003)
 
 
