@@ -121,16 +121,15 @@
 
 ## 🧑‍🎓 Repositórios das turmas atuais
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=dev-alexmachado&repo=dev-alexmachado%2Fnemsys&theme=one_dark_pro)](https://github.com/dev-alexmachado/nemsys)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=dev-alexmachado&repo=baixar_video_nem&theme=one_dark_pro)](https://github.com/dev-alexmachado/baixar_video_nem)
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=dev-alexmachado&repo=dev-alexmachado%2Fdesenvolvedor_python_qua.544.003&theme=one_dark_pro)](https://github.com/dev-alexmachado/desenvolvedor_python_qua.544.003)
-
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=dev-alexmachado&repo=dev-alexmachado%2Fnemsys&theme=one_dark_pro)](https://github.com/dev-alexmachado/nemsys)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=dev-alexmachado&repo=python_nem_vespertino&theme=one_dark_pro)](https://github.com/dev-alexmachado/python_nem_vespertino)
 
 ---
 <a href="https://abozanona.github.io/pacman-contribution-graph/">
   <img src="img/acrade-contributions.svg" alt="bomberman">
 </a>
-
-
 
 <!--
 ## 👨‍💻 Meu status
