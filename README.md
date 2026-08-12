@@ -37,27 +37,24 @@
   O livro está disponível em e-book, kindle unlimited e capa comum <a href="https://www.amazon.com.br/Dossi%C3%AA-Python-Zero-Projeto-Flask-ebook/dp/B0HB98TZBR/ref=tmm_kin_swatch_0?_encoding=UTF8&dib_tag=se&dib=eyJ2IjoiMSJ9.vD_tRVW_joAzf7agUEkpUQ.Xjin22abUCqijY8A6E0sH4X5bh44E60OG1pDAETHUHw&qid=1785261162&sr=8-1" target="_blank">neste link</a>.
 </p>
 
-<!-- Mais recentemente, também publiquei na Amazon o meu primeiro livro [**Dossiê Python: Do Zero ao Projeto com Flask**](https://www.amazon.com.br/s?k=dossi%C3%AA+python&crid=26EG7ZELF09OF&sprefix=%2Caps%2C283&ref=nb_sb_ss_recent_1_0_recent), destinado para iniciantes que queiram aprender lógica de programação, mas que também gostariam de, logo em seguida, desenvolver um projeto para chamar de seu. O livro foi publicado em duas versões: [e-book](https://www.amazon.com.br/Dossi%C3%AA-Python-Zero-Projeto-Flask-ebook/dp/B0HB98TZBR/ref=sr_1_2?crid=26EG7ZELF09OF&dib=eyJ2IjoiMSJ9.QrehVcqAgY5c9tL89dhi6jSNgs0-0Zv3Z0NOCOKv4bk.9B5GIyOk688w3PNSorAI4cnuD9v1KrgLjqIMKJa-qgE&dib_tag=se&keywords=dossi%C3%AA+python&qid=1784987724&sprefix=%2Caps%2C283&sr=8-2) e [livro físico capa comum](https://www.amazon.com.br/dp/B0HBGY2NPF/ref=sr_1_1?crid=26EG7ZELF09OF&dib=eyJ2IjoiMSJ9.QrehVcqAgY5c9tL89dhi6jSNgs0-0Zv3Z0NOCOKv4bk.9B5GIyOk688w3PNSorAI4cnuD9v1KrgLjqIMKJa-qgE&dib_tag=se&keywords=dossi%C3%AA+python&qid=1784987724&sprefix=%2Caps%2C283&sr=8-1&ufe=app_do%3Aamzn1.fos.2cac4462-e4ae-4f90-bce2-96d9085be8be). -->
-
 
 ## 🧑‍💻 Linguagens mais usadas
 
 <div align="center">
   <a href="https://github.com/stats-organization/github-stats-extended" target="_blank">
-    <img src="https://github-stats-extended.vercel.app/api/top-langs?username=dev-alexmachado&theme=dark&hide=jupyter%20notebook,TypeScript,Portugol&locale=pt-br&langs_count=6&hide_border=true&layout=pie&custom_title=Porcentagem&size_weight=0.5&count_weight=0.5" alt="languages graph" />
-    <img src="https://github-stats-extended.vercel.app/api/top-langs?username=dev-alexmachado&theme=dark&hide=jupyter%20notebook,TypeScript,Portugol&locale=pt-br&langs_count=7&hide_border=true&layout=normal&stats_format=bytes&custom_title=Tamanho&size_weight=0.5&count_weight=0.5" alt="languages graph"/>
+    <img src="https://github-stats-extended.vercel.app/api/top-langs?username=dev-alexmachado&layout=pie&langs_count=6&theme=one_dark_pro&hide=jupyter%20notebook,TypeScript,Portugol&locale=pt-br&langs_count=6&hide_border=false&layout=pie&custom_title=Porcentagem&size_weight=0.5&count_weight=0.5" alt="languages graph" />
+    <img src="https://github-stats-extended.vercel.app/api/top-langs?username=dev-alexmachado&langs_count=7&theme=one_dark_pro&hide=jupyter%20notebook,TypeScript,Portugol&locale=pt-br&langs_count=7&hide_border=false&layout=normal&stats_format=bytes&custom_title=Tamanho&size_weight=0.5&count_weight=0.5" alt="languages graph"/>
   </a>
 </div>
-<!-- https://github-stats-extended.vercel.app/api/top-langs?username=dev-alexmachado&layout=pie&langs_count=8&theme=date_night -->
 
 ## 🪪 Estatísticas do meu GitHub
 
 <div align="center">
   <a href="https://github.com/stats-organization/github-stats-extended" target="_blank">
-    <img src="https://github-stats-extended.vercel.app/api?username=dev-alexmachado&show_icons=true&theme=dark&locale=pt-br&hide_border=true&rank_icon=percentile&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&card_width=600px" alt="stats graph"  />
+    <img src="https://github-stats-extended.vercel.app/api?username=dev-alexmachado&rank_icon=percentile&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&show_icons=true&include_all_commits=true&theme=one_dark_pro&locale=pt-br&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&card_width=500px" alt="stats graph"  />
+    <!-- <img src="https://github-stats-extended.vercel.app/api?username=dev-alexmachado&show_icons=true&theme=dark&locale=pt-br&hide_border=true&rank_icon=percentile&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&card_width=600px" alt="stats graph"  /> -->
   </a>
 </div>
-<!-- https://github-stats-extended.vercel.app/api?username=dev-alexmachado&rank_icon=percentile&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true&theme=dark&locale=pt-br&hide_border=true -->
 
 ## 💻 Minhas tecnologias
 
@@ -117,41 +114,18 @@
 
 ## 👨‍🏫 Tutoriais
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=dev-alexmachado&repo=atalhos-vscode&theme=github_dark)](https://github.com/dev-alexmachado/atalhos-vscode)
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=dev-alexmachado&repo=comandos_git&theme=github_dark)](https://github.com/dev-alexmachado/comandos_git)
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=dev-alexmachado&repo=guia_rapido_python&theme=github_dark)](https://github.com/dev-alexmachado/guia_rapido_python)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=dev-alexmachado&repo=dev-alexmachado%2Fatalhos-vscode&theme=one_dark_pro)](https://github.com/dev-alexmachado/atalhos-vscode)
 
-<!-- <div align="center">
-  <div style="float:left;width:50%;margin-bottom:50px">
-  <h3>Atalhos Visual Studio Code</h3>
-    <a href="https://github.com/dev-alexmachado/atalhos-vscode">
-      <img src="https://github-stats-extended.vercel.app/api/pin?username=dev-alexmachado&repo=atalhos-vscode&theme=github_dark">
-    </a>
-  </div>
-  <div style="float:right;width:50%;margin-bottom:50px">
-  <h3>Comandos Git para iniciantes</h3>
-    <a href="https://github.com/dev-alexmachado/comandos_git">
-      <img src="https://github-stats-extended.vercel.app/api/pin?username=dev-alexmachado&repo=comandos_git&theme=github_dark">
-    </a>
-  </div>
-  <div style="width:50%;margin-bottom:50px">
-  <h3>Guia Rápido de Python</h3>
-    <a href="https://github.com/dev-alexmachado/guia_rapido_python">
-      <img src="https://github-stats-extended.vercel.app/api/pin?username=dev-alexmachado&repo=guia_rapido_python&theme=github_dark">
-    </a>
-  </div>
-</div> -->
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=dev-alexmachado&repo=dev-alexmachado%2Fcomandos_git&theme=one_dark_pro)](https://github.com/dev-alexmachado/comandos_git)
 
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=dev-alexmachado&repo=dev-alexmachado%2Fguia_rapido_python&theme=one_dark_pro)](https://github.com/dev-alexmachado/guia_rapido_python)
 
-
-<!-- - [Atalhos para o VSCode](https://github.com/dev-alexmachado/atalhos-vscode)
-- [Git para Iniciantes](https://github.com/dev-alexmachado/comandos_git)
-- [Guia Rápido de Python](https://github.com/dev-alexmachado/guia_rapido_python) -->
 
 ## 🧑‍🎓 Repositórios das turmas atuais
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=dev-alexmachado&repo=dev-alexmachado%2Fnemsys&theme=github_dark)](https://github.com/dev-alexmachado/nemsys)
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=dev-alexmachado&repo=dev-alexmachado%2Fdesenvolvedor_python_qua.544.003&theme=github_dark)](https://github.com/dev-alexmachado/desenvolvedor_python_qua.544.003)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=dev-alexmachado&repo=dev-alexmachado%2Fnemsys&theme=one_dark_pro)](https://github.com/dev-alexmachado/nemsys)
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=dev-alexmachado&repo=dev-alexmachado%2Fdesenvolvedor_python_qua.544.003&theme=one_dark_pro)](https://github.com/dev-alexmachado/desenvolvedor_python_qua.544.003)
 
 
 ---
