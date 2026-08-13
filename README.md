@@ -1,3 +1,4 @@
+# 👋 Olá, Mundo! 🌎
 <p>
   <img src="img/banner.png" alt="banner" style="min-width: 100%" />
 </p>
@@ -7,7 +8,7 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=dev-alexmachado.dev-alexmachado&left_text=visitors&right_color=%2316161d&logo=github&height=25" alt="visitor badge"/>
 </p>
 
-# 👋 Olá, Mundo! 🌎
+## 🪪 Quem sou eu?
 
 <a href="https://portaleducacao.sistemafibra.org.br/FrameHTML/web/app/Edu/PortaldoProfessor/#/login">
   <img src="img/computer-code.png" alt="Link para novo portal docente" min-width="350px" max-width="350px" width="350px" align="right" style="margin-left: 50px">
@@ -49,7 +50,7 @@
   </a>
 </div>
 
-## 🪪 Estatísticas do meu GitHub
+## 📈 Estatísticas do meu GitHub
 
 <div align="center">
   <a href="https://github.com/stats-organization/github-stats-extended" target="_blank">
@@ -113,6 +114,13 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle logo"  />
 </div>
+
+## 📜 Certificações
+
+*Adobe Certified Professional in Visual Design using Adobe Photoshop*
+
+<img src="img/adobe-certified-professional-in-visual-design-using-adobe-photoshop-sem-fundo.png" height="100" alt="Adobe Certified Professional in Visual Design using Adobe Photoshop">
+
 
 ## 👨‍🏫 Guias Rápidos
 
