@@ -53,7 +53,8 @@
 
 <div align="center">
   <a href="https://github.com/stats-organization/github-stats-extended" target="_blank">
-    <img src="https://github-stats-extended.vercel.app/api?username=dev-alexmachado&rank_icon=percentile&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&show_icons=true&include_all_commits=true&theme=one_dark_pro&locale=pt-br&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&card_width=500px" alt="stats graph"  />
+    <img src="https://github-stats-extended.vercel.app/api?username=dev-alexmachado&rank_icon=percentile&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&show_icons=true&include_all_commits=true&theme=github_dark_dimmed&locale=pt-br&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&card_width=500px" alt="stats graph"  />
+    <!-- <img src="https://github-stats-extended.vercel.app/api?username=dev-alexmachado&rank_icon=percentile&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&show_icons=true&include_all_commits=true&theme=one_dark_pro&locale=pt-br&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&card_width=500px" alt="stats graph"  /> -->
   </a>
 </div>
 
