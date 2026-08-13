@@ -61,8 +61,8 @@
 ## 💻 Minhas tecnologias
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg" height="40" alt="firefox logo"  />
-  <img width="12" />
+  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg" height="40" alt="firefox logo"  />
+  <img width="12" /> -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
@@ -119,6 +119,7 @@
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=dev-alexmachado&repo=dev-alexmachado%2Fatalhos-vscode&theme=github_dark_dimmed)](https://github.com/dev-alexmachado/atalhos-vscode)
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=dev-alexmachado&repo=dev-alexmachado%2Fcomandos_git&theme=github_dark_dimmed)](https://github.com/dev-alexmachado/comandos_git)
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=dev-alexmachado&repo=dev-alexmachado%2Fguia_rapido_python&theme=github_dark_dimmed)](https://github.com/dev-alexmachado/guia_rapido_python)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=dev-alexmachado&repo=colecoes-css&theme=github_dark_dimmed)](https://github.com/dev-alexmachado/colecoes-css)
 
 
 ## 🧑‍🎓 Repositórios das turmas atuais
