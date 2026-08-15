@@ -132,7 +132,7 @@
 
 ## 🧑‍🎓 Repositórios das turmas atuais
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=dev-alexmachado&repo=baixar_video_nem&theme=github_dark_dimmed)](https://github.com/dev-alexmachado/baixar_video_nem)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=dev-alexmachado&repo=baixar_video_nem&theme=github_dark_dimmed&hide_border=false)](https://github.com/dev-alexmachado/baixar_video_nem)
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=dev-alexmachado&repo=dev-alexmachado%2Fdesenvolvedor_python_qua.544.003&theme=github_dark_dimmed&hide_border=false)](https://github.com/dev-alexmachado/desenvolvedor_python_qua.544.003)
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=dev-alexmachado&repo=dev-alexmachado%2Fnemsys&theme=github_dark_dimmed)](https://github.com/dev-alexmachado/nemsys)
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=dev-alexmachado&repo=python_nem_vespertino&theme=github_dark_dimmed)](https://github.com/dev-alexmachado/python_nem_vespertino)
