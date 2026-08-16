@@ -33,9 +33,9 @@
 
 ### Programação
 
-<img src="img/python.png" width="32" alt="Python">
-<img src="img/java.png" width="32" alt="Java">
-<img src="img/js.png" width="32" alt="JavaScript">
+<img src="img/python.png" width="32" style="float:left" alt="Python">
+<img src="img/java.png" width="32" style="float:left" alt="Java">
+<img src="img/js.png" width="32" style="float:left" alt="JavaScript">
 <img src="img/php.png" width="48" alt="PHP">
 
 ## 📜 Certificações
