@@ -61,9 +61,41 @@
 
 ## 💻 Minhas tecnologias
 
-<div align="center">
-  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg" height="40" alt="firefox logo"  />
-  <img width="12" /> -->
+### Programação
+
+![python](https://www.readmecodegen.com/api/social-icon?name=python&size=64&animation=glow&color=%23306998&showText=true&textColor=%23ffd41d)
+![java](https://www.readmecodegen.com/api/social-icon?name=java&size=64&animation=glow&color=%23ef4444&showText=true&textColor=%233b82f6)
+![javascript](https://www.readmecodegen.com/api/social-icon?name=javascript&size=64&animation=glow&showText=true&textColor=%23f59e0b)
+![php](https://www.readmecodegen.com/api/social-icon?name=php&size=64&animation=shake&showText=true&textColor=%237276ad)
+
+### Frameworks
+
+![django](https://www.readmecodegen.com/api/social-icon?name=django&size=64&reverseBackground=true&showText=true&textColor=%23092e20)
+![spring](https://www.readmecodegen.com/api/social-icon?name=spring&size=64&showText=true&textColor=%236db33f)
+![react](https://www.readmecodegen.com/api/social-icon?name=react&size=64&animation=glow&showText=true&textColor=%2374ffff)
+
+### Front-End
+
+![html5](https://www.readmecodegen.com/api/social-icon?name=html5&size=64&animation=glow&showText=true&textColor=%237d7d7d)
+![css](https://www.readmecodegen.com/api/social-icon?name=css&size=64&animation=glow&showText=true&textColor=%237d7d7d)
+![bootstrap](https://www.readmecodegen.com/api/social-icon?name=bootstrap&size=64&animation=bounce&showText=true&textColor=%237952b3)
+
+
+### Banco de Dados
+
+![mysql](https://www.readmecodegen.com/api/social-icon?name=mysql&size=96&animation=glow&textColor=%237276ad)
+![sqlite](https://www.readmecodegen.com/api/social-icon?name=sqlite&size=64&animation=glow&showText=true&textColor=%23003b57)
+![sqlalchemy](https://www.readmecodegen.com/api/social-icon?name=sqlalchemy&size=64&animation=glow&showText=true&textColor=%23003b57)
+![hibernate](https://www.readmecodegen.com/api/social-icon?name=hibernate&size=64&animation=glow&showText=true&textColor=%2359666c)
+
+
+### Análise de dados
+
+![jupyter](https://www.readmecodegen.com/api/social-icon?name=jupyter&size=64&showText=true&textColor=%237d7d7d)
+![googlecolab](https://www.readmecodegen.com/api/social-icon?name=googlecolab&size=64&showText=true&textColor=%237d7d7d)
+
+
+<!-- <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
@@ -113,7 +145,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" alt="google logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle logo"  />
-</div>
+</div> -->
 
 ## 📜 Certificações
 
