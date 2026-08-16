@@ -1,6 +1,8 @@
 # 👋 Olá, Mundo! 🌎
 <p>
-  <img src="img/banner.png" alt="banner" style="min-width: 100%" />
+  <a href="https://www.readmecodegen.com/">
+    <img src="img/banner.png" alt="banner" style="min-width: 100%" />
+  </a>
 </p>
 
 <p align="center">
