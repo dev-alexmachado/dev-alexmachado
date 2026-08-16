@@ -22,6 +22,18 @@
   Publico conteúdos e repositórios voltados ao aprendizado prático: exercícios, tutoriais e projetos demonstráveis que conectam teoria e aplicação. Entre meus trabalhos estão sistemas de reconhecimento facial, aplicações de OCR, extração de texto e coleções de notebooks para ensino. Além disso, também sou escritor, com um livro publicado na loja da Amazon, em versões e-book e capa comum.
 </p>
 
+## 🎓 Formação
+
+- **Nível Técnico**: Técnico em Informática pela **CEP-ETB**.
+- **Nível Superior**: Bacharel em Sistemas de Informação (BSI) pela **Faculdade Anhanguera FACNET**.
+
+
+## 📜 Certificações
+
+*Adobe Certified Professional in Visual Design using Adobe Photoshop*
+
+<img src="img/adobe-certified-professional-in-visual-design-using-adobe-photoshop-sem-fundo.png" height="100" alt="Adobe Certified Professional in Visual Design using Adobe Photoshop">
+
 ## 📖 Livros publicados
 
 <p align="center">
@@ -150,12 +162,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle logo"  />
 </div> -->
-
-## 📜 Certificações
-
-*Adobe Certified Professional in Visual Design using Adobe Photoshop*
-
-<img src="img/adobe-certified-professional-in-visual-design-using-adobe-photoshop-sem-fundo.png" height="100" alt="Adobe Certified Professional in Visual Design using Adobe Photoshop">
 
 
 ## 👨‍🏫 Guias Rápidos
