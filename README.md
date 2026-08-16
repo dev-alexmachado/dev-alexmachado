@@ -84,15 +84,20 @@
 ### Banco de Dados
 
 ![mysql](https://www.readmecodegen.com/api/social-icon?name=mysql&size=96&animation=glow&textColor=%237276ad)
-![sqlite](https://www.readmecodegen.com/api/social-icon?name=sqlite&size=64&animation=glow&showText=true&textColor=%23003b57)
+![sqlite](https://www.readmecodegen.com/api/social-icon?name=sqlite&size=64&showText=true)
 ![sqlalchemy](https://www.readmecodegen.com/api/social-icon?name=sqlalchemy&size=64&animation=glow&showText=true&textColor=%23003b57)
-![hibernate](https://www.readmecodegen.com/api/social-icon?name=hibernate&size=64&animation=glow&showText=true&textColor=%2359666c)
+![hibernate](https://www.readmecodegen.com/api/social-icon?name=hibernate&size=64&showText=true)
 
 
 ### Análise de dados
 
 ![jupyter](https://www.readmecodegen.com/api/social-icon?name=jupyter&size=64&showText=true&textColor=%237d7d7d)
 ![googlecolab](https://www.readmecodegen.com/api/social-icon?name=googlecolab&size=64&showText=true&textColor=%237d7d7d)
+
+
+### Sistema Operacional
+
+![windows](https://www.readmecodegen.com/api/social-icon?name=windows&size=64&animation=glow&showText=true&textColor=%230090fe)
 
 
 <!-- <div align="center">
