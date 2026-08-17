@@ -66,6 +66,7 @@
 ![Windows 11](img/windows-11-32.png)
 ![Git](img/git-32.png)
 ![GitHub](img/github-32.png)
+![Photoshop](img/photoshop-32.png)
 
 ### IA
 
