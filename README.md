@@ -231,7 +231,7 @@
 
 ---
 <a href="https://abozanona.github.io/pacman-contribution-graph/">
-  <img src="img/acrade-contributions.svg" alt="bomberman">
+  <img src="img/acrade-pac-man.svg" alt="bomberman">
 </a>
 
 <!--
