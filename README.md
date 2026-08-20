@@ -45,8 +45,8 @@
 ![Django](img/django-32.png)
 ![Spring](img/spring-boot-32.png)
 ![Bootstrap](img/bootstrap-32.png)
-![React](img/react-32.png)
 ![Tailwind](img/tailwind-css-32.png)
+![React](img/react-32.png)
 
 ### Análise de Dados
 
