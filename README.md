@@ -46,6 +46,7 @@
 ![Spring](img/spring-boot-32.png)
 ![Bootstrap](img/bootstrap-32.png)
 ![React](img/react-32.png)
+![Tailwind](img/tailwind-css-32.png)
 
 ### Análise de Dados
 
@@ -57,6 +58,8 @@
 ![Jupyter](img/jupyter-32.png)
 ![Colab](img/google-colab-32.png)
 ![Kaggle](img/kaggle-32.png)
+![NumPy](img/numpy-32.png)
+![Pandas](img/pandas-32.png)
 
 ### Ferramentas
 
