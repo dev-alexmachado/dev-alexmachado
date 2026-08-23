@@ -130,6 +130,7 @@
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=dev-alexmachado&repo=colecoes-css&theme=github_dark_dimmed)](https://github.com/dev-alexmachado/colecoes-css)
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=dev-alexmachado&repo=dev-alexmachado%2Fcomandos_git&theme=github_dark_dimmed)](https://github.com/dev-alexmachado/comandos_git)
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=dev-alexmachado&repo=dev-alexmachado%2Fguia_rapido_python&theme=github_dark_dimmed)](https://github.com/dev-alexmachado/guia_rapido_python)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=dev-alexmachado&repo=guia_estrutura_de_pastas&theme=github_dark_dimmed)](https://github.com/dev-alexmachado/guia_estrutura_de_pastas)
 
 
 ## 🧑‍🎓 Repositórios das turmas atuais
@@ -142,9 +143,9 @@
 
 ---
 <a href="https://abozanona.github.io/pacman-contribution-graph/">
-  <img src="img/acrade-pac-man.svg" alt="Pac-Man">
+  <img src="img/acrade-breakout.svg" alt="Breakout">
 </a>
----
+
 
 <!--
 ## 👨‍💻 Meu status
