@@ -34,6 +34,7 @@
   <a href="https://www.freewebtools.com/gerador-badges-github/" title="CEP ETB: Técnico em Informática">
     <img src="https://www.freewebtools.com/api/badge/CEP%20ETB-T%C3%A9cnico%20em%20Inform%C3%A1tica-146204.svg?style=plastic&labelColor=16161d" alt="CEP ETB: Técnico em Informática" decoding="async" loading="lazy">
   </a>
+  <br>
   <a href="https://www.freewebtools.com/gerador-badges-github/" title="Faculdade Anhanguera FACNET: Bacharel em Sistemas de Informação">
     <img src="https://www.freewebtools.com/api/badge/Faculdade%20Anhanguera%20FACNET-Bacharel%20em%20Sistemas%20de%20Informa%C3%A7%C3%A3o-06083c.svg?style=plastic&labelColor=16161d" alt="Faculdade Anhanguera FACNET: Bacharel em Sistemas de Informação" decoding="async" loading="lazy">
   </a>
