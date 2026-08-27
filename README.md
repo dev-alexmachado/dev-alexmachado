@@ -30,6 +30,7 @@
 <!-- - **Nível Técnico**: Técnico em Informática pela **CEP-ETB**.
 - **Nível Superior**: Bacharel em Sistemas de Informação (BSI) pela **Faculdade Anhanguera FACNET**. -->
 ![CEP ETB](https://img.shields.io/badge/CEP%20ETB-T%C3%A9cnico%20em%20Inform%C3%A1tica-brightgreen?style=plastic)
+
 ![Faculdade Anhanguera FACNET](https://img.shields.io/badge/Faculdade%20Anhanguera%20FACNET-Bacharel%20em%20Sistemas%20de%20Informa%C3%A7%C3%A3o-blue?style=plastic)
 
 ## 💻 Habilidades
