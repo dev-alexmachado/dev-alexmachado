@@ -34,6 +34,7 @@
   <a href="https://www.freewebtools.com/gerador-badges-github/" title="Nível Médio: CMB - Colégio Militar de Brasília">
     <img src="https://www.freewebtools.com/api/badge/N%C3%ADvel%20M%C3%A9dio-CMB%20--%20Col%C3%A9gio%20Militar%20de%20Bras%C3%ADlia-ff0000.svg?style=plastic&labelColor=16161d" alt="Nível Médio: CMB - Colégio Militar de Brasília" decoding="async" loading="lazy" height="25">
   </a>
+  <br>
   <a href="https://www.freewebtools.com/gerador-badges-github/" title="Técnico em Informática: CEP ETB - Escola Técnica de Brasília">
     <img src="https://www.freewebtools.com/api/badge/T%C3%A9cnico%20em%20Inform%C3%A1tica-CEP%20ETB%20--%20Escola%20T%C3%A9cnica%20de%20Bras%C3%ADlia-036d03.svg?style=plastic&labelColor=16161d" alt="Técnico em Informática: CEP ETB - Escola Técnica de Brasília" decoding="async" loading="lazy" height="25">
   </a>
