@@ -30,13 +30,16 @@
 <!-- - **Nível Técnico**: Técnico em Informática pela **CEP-ETB**.
 - **Nível Superior**: Bacharel em Sistemas de Informação (BSI) pela **Faculdade Anhanguera FACNET**. -->
 
-<div align="center" style="margin-top: 25px;">
-  <a href="https://www.freewebtools.com/gerador-badges-github/" title="CEP ETB: Técnico em Informática">
-    <img src="https://www.freewebtools.com/api/badge/CEP%20ETB-T%C3%A9cnico%20em%20Inform%C3%A1tica-146204.svg?style=plastic&labelColor=16161d" alt="CEP ETB: Técnico em Informática" decoding="async" loading="lazy">
+<div align="left" style="margin-top: 25px;">
+  <a href="https://www.freewebtools.com/gerador-badges-github/" title="Nível Médio: CMB - Colégio Militar de Brasília">
+    <img src="https://www.freewebtools.com/api/badge/N%C3%ADvel%20M%C3%A9dio-CMB%20--%20Col%C3%A9gio%20Militar%20de%20Bras%C3%ADlia-ff0000.svg?style=plastic&labelColor=16161d" alt="Nível Médio: CMB - Colégio Militar de Brasília" decoding="async" loading="lazy" height="25">
+  </a>
+  <a href="https://www.freewebtools.com/gerador-badges-github/" title="Técnico em Informática: CEP ETB - Escola Técnica de Brasília">
+    <img src="https://www.freewebtools.com/api/badge/T%C3%A9cnico%20em%20Inform%C3%A1tica-CEP%20ETB%20--%20Escola%20T%C3%A9cnica%20de%20Bras%C3%ADlia-036d03.svg?style=plastic&labelColor=16161d" alt="Técnico em Informática: CEP ETB - Escola Técnica de Brasília" decoding="async" loading="lazy" height="25">
   </a>
   <br>
-  <a href="https://www.freewebtools.com/gerador-badges-github/" title="Faculdade Anhanguera FACNET: Bacharel em Sistemas de Informação">
-    <img src="https://www.freewebtools.com/api/badge/Faculdade%20Anhanguera%20FACNET-Bacharel%20em%20Sistemas%20de%20Informa%C3%A7%C3%A3o-06083c.svg?style=plastic&labelColor=16161d" alt="Faculdade Anhanguera FACNET: Bacharel em Sistemas de Informação" decoding="async" loading="lazy">
+  <a href="https://www.freewebtools.com/gerador-badges-github/" title="Bacharel em Sistemas de Informação: Faculdade Anhanguera FACNET">
+    <img src="https://www.freewebtools.com/api/badge/Bacharel%20em%20Sistemas%20de%20Informa%C3%A7%C3%A3o-Faculdade%20Anhanguera%20FACNET-36324d.svg?style=plastic&labelColor=16161d" alt="Bacharel em Sistemas de Informação: Faculdade Anhanguera FACNET" decoding="async" loading="lazy" height="25">
   </a>
   <!-- Badge by FreeWebTools.com -->
 </div>
@@ -121,7 +124,7 @@
   <a href="https://github.com/stats-organization/github-stats-extended" target="_blank">
     <img src="https://github-stats-extended.vercel.app/api/top-langs?username=dev-alexmachado&layout=pie&langs_count=6&theme=github_dark_dimmed&hide=jupyter%20notebook,TypeScript,Portugol&locale=pt-br&hide_title=false&langs_count=6&layout=pie&custom_title=Porcentagem&size_weight=0.5&count_weight=0.5" alt="languages graph" />
     <!-- <img src="https://github-stats-extended.vercel.app/api/top-langs?username=dev-alexmachado&layout=pie&langs_count=6&theme=one_dark_pro&hide=jupyter%20notebook,TypeScript,Portugol&locale=pt-br&langs_count=6&hide_border=false&layout=pie&custom_title=Porcentagem&size_weight=0.5&count_weight=0.5" alt="languages graph" /> -->
-    <img src="https://github-stats-extended.vercel.app/api/top-langs?username=dev-alexmachado&langs_count=6&theme=github_dark_dimmed&hide=jupyter%20notebook,TypeScript,Portugol&locale=pt-br&langs_count=7&layout=normal&stats_format=bytes&custom_title=Tamanho&size_weight=0.5&count_weight=0.5" alt="languages graph"/>
+    <img src="https://github-stats-extended.vercel.app/api/top-langs?username=dev-alexmachado&langs_count=6&theme=github_dark_dimmed&hide=jupyter%20notebook,TypeScript,Portugol&locale=pt-br&langs_count=7&layout=normal&stats_format=bytes&custom_title=Tamanho&hide_border=false&size_weight=0.5&count_weight=0.5" alt="languages graph"/>
     <!-- <img src="https://github-stats-extended.vercel.app/api/top-langs?username=dev-alexmachado&langs_count=7&theme=github_dark_dimmed&hide=jupyter%20notebook,TypeScript,Portugol&locale=pt-br&langs_count=7&hide_border=false&layout=normal&stats_format=bytes&custom_title=Tamanho&size_weight=0.5&count_weight=0.5" alt="languages graph"/> -->
   </a>
 </div>
