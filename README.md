@@ -35,6 +35,13 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/Bacharel_em_Sistemas_de_Informa%C3%A7%C3%A3o_%7C_Faculdade_Anhanguera%3A_FACNET-36324d?style=plastic&label=2010&labelColor=16161d&link=https%3A%2F%2Fshields.io%2Fbadges">
 </a>
 
+## 👨‍💼 Ocupação atual
+
+<a href="https://shields.io/badges">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Instrutor_de_TI_N%C3%ADvel_I_%7C_SENAI-07f?style=plastic&label=Desde%202014&labelColor=16161d">
+</a>
+
+
 ## 💻 Habilidades
 
 ### Programação
@@ -109,7 +116,7 @@
 </p>
 
 
-## 🧑‍💻 Linguagens mais usadas
+## 👨‍💻 Linguagens mais usadas
 
 <div align="center">
   <a href="https://github.com/stats-organization/github-stats-extended" target="_blank">
