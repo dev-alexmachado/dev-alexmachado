@@ -28,17 +28,39 @@
 ## 🎓 Formação
 
 <a href="https://shields.io/badges">
-  <img alt="Static Badge" src="https://img.shields.io/badge/N%C3%ADvel_M%C3%A9dio_%7C_CMB%3A_Col%C3%A9gio_Militar_de_Bras%C3%ADlia-f00?style=plastic&label=2002&labelColor=16161d&link=https%3A%2F%2Fshields.io%2Fbadges">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Bacharel_em_Sistemas_de_Informa%C3%A7%C3%A3o_%7C_Faculdade_Anhanguera_--_FACNET-F37021?style=plastic&label=2010&labelColor=16161d&link=https%3A%2F%2Fshields.io%2Fbadges">
   <br>
-  <img alt="Static Badge" src="https://img.shields.io/badge/T%C3%A9cnico_em_Inform%C3%A1tica_%7C_CEP_ETB%3A_Escola_T%C3%A9cnica_de_Bras%C3%ADlia-070?style=plastic&label=2006&labelColor=16161d&link=https%3A%2F%2Fshields.io%2Fbadges">
+  <img alt="Static Badge" src="https://img.shields.io/badge/T%C3%A9cnico_em_Inform%C3%A1tica_%7C_CEP--ETB_--_Escola_T%C3%A9cnica_de_Bras%C3%ADlia-070?style=plastic&label=2006&labelColor=16161d&link=https%3A%2F%2Fshields.io%2Fbadges">
   <br>
-  <img alt="Static Badge" src="https://img.shields.io/badge/Bacharel_em_Sistemas_de_Informa%C3%A7%C3%A3o_%7C_Faculdade_Anhanguera%3A_FACNET-36324d?style=plastic&label=2010&labelColor=16161d&link=https%3A%2F%2Fshields.io%2Fbadges">
+  <img alt="Static Badge" src="https://img.shields.io/badge/N%C3%ADvel_M%C3%A9dio_%7C_CMB_--_Col%C3%A9gio_Militar_de_Bras%C3%ADlia-f00?style=plastic&label=2002&labelColor=16161d&link=https%3A%2F%2Fshields.io%2Fbadges">
+  <br>
+  <img alt="Static Badge" src="https://img.shields.io/badge/N%C3%ADvel_Fundamental_%7C_Col%C3%A9gio_Compacto_Gama-36324d?style=plastic&label=1999&labelColor=16161d">
 </a>
 
-## 👨‍💼 Ocupação atual
+## 👨‍💼 Ocupação
+
+### Atual
 
 <a href="https://shields.io/badges">
-  <img alt="Static Badge" src="https://img.shields.io/badge/Instrutor_de_TI_N%C3%ADvel_I_%7C_SENAI-07f?style=plastic&label=Desde%202014&labelColor=16161d">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Instrutor_de_TI_N%C3%ADvel_I_%7C_SENAI-164194?style=plastic&label=Desde%202014&labelColor=16161d">
+</a>
+
+### Anteriores
+
+<a href="https://shields.io/badges">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Instrutor%2FConsultor_TI_%7C_Partner_RH_Consultoria-333?style=plastic&label=2012%20%7C%202014&labelColor=16161d">
+  <br>
+  <img alt="Static Badge" src="https://img.shields.io/badge/Instrutor_TI_%7C_BMC-333?style=plastic&label=2011&labelColor=16161d">
+  <br>
+  <img alt="Static Badge" src="https://img.shields.io/badge/Est%C3%A1gio_Suporte_TI_%7C_SENAC-333?style=plastic&label=2010&labelColor=16161d">
+  <br>
+  <img alt="Static Badge" src="https://img.shields.io/badge/Instrutor_Operador_de_Micro_%7C_Eurodata-333?style=plastic&label=2009&labelColor=16161d">
+  <br>
+  <img alt="Static Badge" src="https://img.shields.io/badge/Est%C3%A1gio_Instrutor_Operador_de_Micro_%7C_IEP_--_Instituto_de_Ensino_Profissionalizante-333?style=plastic&label=2007%20%7C%202008&labelColor=16161d">
+  <br>
+  <img alt="Static Badge" src="https://img.shields.io/badge/Instrutor_Operador_de_Micro_%7C_New_Value_Inform%C3%A1tica-333?style=plastic&label=2006%20%7C%202007&labelColor=16161d">
+  <br>
+  <img alt="Static Badge" src="https://img.shields.io/badge/Est%C3%A1gio_T%C3%A9cnico_Suporte_TI_%7C_Shopping_da_Inform%C3%A1tica-333?style=plastic&label=2005&labelColor=16161d">
 </a>
 
 
