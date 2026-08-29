@@ -27,20 +27,13 @@
 
 ## 🎓 Formação
 
-<div align="left" style="margin-top: 25px;">
-  <a href="https://www.freewebtools.com/gerador-badges-github/" title="Nível Médio: CMB - Colégio Militar de Brasília">
-    <img src="https://www.freewebtools.com/api/badge/N%C3%ADvel%20M%C3%A9dio-CMB%20--%20Col%C3%A9gio%20Militar%20de%20Bras%C3%ADlia-ff0000.svg?style=plastic&labelColor=16161d" alt="Nível Médio: CMB - Colégio Militar de Brasília" decoding="async" loading="lazy" height="25">
-  </a>
+<a href="https://shields.io/badges">
+  <img alt="Static Badge" src="https://img.shields.io/badge/N%C3%ADvel_M%C3%A9dio_%7C_CMB%3A_Col%C3%A9gio_Militar_de_Bras%C3%ADlia-f00?style=plastic&label=2002&labelColor=16161d&link=https%3A%2F%2Fshields.io%2Fbadges">
   <br>
-  <a href="https://www.freewebtools.com/gerador-badges-github/" title="Técnico em Informática: CEP ETB - Escola Técnica de Brasília">
-    <img src="https://www.freewebtools.com/api/badge/T%C3%A9cnico%20em%20Inform%C3%A1tica-CEP%20ETB%20--%20Escola%20T%C3%A9cnica%20de%20Bras%C3%ADlia-036d03.svg?style=plastic&labelColor=16161d" alt="Técnico em Informática: CEP ETB - Escola Técnica de Brasília" decoding="async" loading="lazy" height="25">
-  </a>
+  <img alt="Static Badge" src="https://img.shields.io/badge/T%C3%A9cnico_em_Inform%C3%A1tica_%7C_CEP_ETB%3A_Escola_T%C3%A9cnica_de_Bras%C3%ADlia-070?style=plastic&label=2006&labelColor=16161d&link=https%3A%2F%2Fshields.io%2Fbadges">
   <br>
-  <a href="https://www.freewebtools.com/gerador-badges-github/" title="Bacharel em Sistemas de Informação: Faculdade Anhanguera FACNET">
-    <img src="https://www.freewebtools.com/api/badge/Bacharel%20em%20Sistemas%20de%20Informa%C3%A7%C3%A3o-Faculdade%20Anhanguera%20FACNET-36324d.svg?style=plastic&labelColor=16161d" alt="Bacharel em Sistemas de Informação: Faculdade Anhanguera FACNET" decoding="async" loading="lazy" height="25">
-  </a>
-  <!-- Badge by FreeWebTools.com -->
-</div>
+  <img alt="Static Badge" src="https://img.shields.io/badge/Bacharel_em_Sistemas_de_Informa%C3%A7%C3%A3o_%7C_Faculdade_Anhanguera%3A_FACNET-36324d?style=plastic&label=2010&labelColor=16161d&link=https%3A%2F%2Fshields.io%2Fbadges">
+</a>
 
 ## 💻 Habilidades
 
