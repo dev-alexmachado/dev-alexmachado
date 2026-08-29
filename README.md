@@ -117,9 +117,13 @@
 
 ## 📜 Certificações
 
-*Adobe Certified Professional in Visual Design using Adobe Photoshop*
-
-<img src="img/adobe-certified-professional-in-visual-design-using-adobe-photoshop-sem-fundo.png" height="100" alt="Adobe Certified Professional in Visual Design using Adobe Photoshop">
+<div align="center">
+  <img src="img/adobe-certified-professional-in-visual-design-using-adobe-photoshop-sem-fundo.png" height="64" alt="Adobe Certified Professional in Visual Design using Adobe Photoshop">
+  <br><br>
+  <a href="https://shields.io/badges">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Adobe_Certified_Professional_in_Visual_Design_using_Adobe_Photoshop-001E36?style=plastic&label=Dezembro%202023&labelColor=16161d">
+  </a>
+</div>
 
 ## 📖 Livros publicados
 
