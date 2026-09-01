@@ -42,7 +42,7 @@
 ### Atual
 
 <a href="https://shields.io/badges">
-  <img alt="Static Badge" src="https://img.shields.io/badge/Instrutor_de_TI_N%C3%ADvel_I_%7C_SENAI-164194?style=plastic&label=Desde%202014&labelColor=16161d">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Instrutor_de_TI_N%C3%ADvel_I_%7C_SENAI-164194?style=plastic&label=Desde%202014&labelColor=E84910">
 </a>
 
 ### Anteriores
