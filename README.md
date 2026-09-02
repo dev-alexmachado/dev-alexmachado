@@ -50,17 +50,17 @@
 <a href="https://shields.io/badges">
   <img alt="Static Badge" src="https://img.shields.io/badge/Instrutor%2FConsultor_TI_%7C_Partner_RH_Consultoria-333?style=plastic&label=2012%20%7C%202014&labelColor=16161d">
   <br>
-  <img alt="Static Badge" src="https://img.shields.io/badge/Instrutor_TI_%7C_BMC-333?style=plastic&label=2011&labelColor=16161d">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Instrutor%20TI%20%7C%20BMC-333?style=plastic&label=2010%20%7C%202011&labelColor=16161D">
   <br>
-  <img alt="Static Badge" src="https://img.shields.io/badge/Est%C3%A1gio_Suporte_TI_%7C_SENAC-333?style=plastic&label=2010&labelColor=16161d">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Est%C3%A1gio%20T%C3%A9cnico%20Suporte%20TI%20%7C%20SENAC-333?style=plastic&label=2010&labelColor=16161D">
   <br>
-  <img alt="Static Badge" src="https://img.shields.io/badge/Instrutor_Operador_de_Micro_%7C_Eurodata-333?style=plastic&label=2009&labelColor=16161d">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Instrutor%20Operador%20de%20Micro%20%7C%20Eurodata-333?style=plastic&label=2009%20%7C%202010&labelColor=16161D">
   <br>
-  <img alt="Static Badge" src="https://img.shields.io/badge/Est%C3%A1gio_Instrutor_Operador_de_Micro_%7C_IEP_--_Instituto_de_Ensino_Profissionalizante-333?style=plastic&label=2007%20%7C%202008&labelColor=16161d">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Est%C3%A1gio_Instrutor_Operador_de_Micro_%7C_IEP_--_Instituto_de_Ensino_Profissionalizante-333?style=plastic&label=2008%20%7C%202009&labelColor=16161d">
   <br>
-  <img alt="Static Badge" src="https://img.shields.io/badge/Instrutor_Operador_de_Micro_%7C_New_Value_Inform%C3%A1tica-333?style=plastic&label=2006%20%7C%202007&labelColor=16161d">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Instrutor_Operador_de_Micro_%7C_New_Value_Inform%C3%A1tica-333?style=plastic&label=2007%20%7C%202008&labelColor=16161d">
   <br>
-  <img alt="Static Badge" src="https://img.shields.io/badge/Est%C3%A1gio_T%C3%A9cnico_Suporte_TI_%7C_Shopping_da_Inform%C3%A1tica-333?style=plastic&label=2005&labelColor=16161d">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Est%C3%A1gio_T%C3%A9cnico_Suporte_TI_%7C_Shopping_da_Inform%C3%A1tica-333?style=plastic&label=2006&labelColor=16161d">
 </a>
 
 
