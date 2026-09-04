@@ -141,12 +141,15 @@
   O livro está disponível em e-book, kindle unlimited e capa comum <a href="https://www.amazon.com.br/Dossi%C3%AA-Python-Zero-Projeto-Flask-ebook/dp/B0HB98TZBR/ref=tmm_kin_swatch_0?_encoding=UTF8&dib_tag=se&dib=eyJ2IjoiMSJ9.vD_tRVW_joAzf7agUEkpUQ.Xjin22abUCqijY8A6E0sH4X5bh44E60OG1pDAETHUHw&qid=1785261162&sr=8-1" target="_blank">neste link</a>.
 </p>
 
+> [!TIP]
+> A versão capa comum do livro se encontra atualmente 33 reais mais barato que o de lançamento! 😉
+
 
 ## 👨‍💻 Linguagens mais usadas
 
 <div align="center">
   <a href="https://github.com/stats-organization/github-stats-extended" target="_blank">
-    <img src="https://github-stats-extended.vercel.app/api/top-langs?username=dev-alexmachado&layout=pie&langs_count=6&theme=github_dark_dimmed&hide=jupyter%20notebook,TypeScript,Portugol&locale=pt-br&hide_title=false&langs_count=6&hide_border=false&layout=pie&custom_title=Porcentagem&size_weight=0.5&count_weight=0.5" alt="languages graph" />
+    <img src="https://github-stats-extended.vercel.app/api/top-langs?username=dev-alexmachado&layout=pie&langs_count=6&theme=github_dark_dimmed&hide=jupyter%20notebook,TypeScript,Portugol&locale=pt-br&hide_title=false&langs_count=6&layout=pie&custom_title=Porcentagem&size_weight=0.5&count_weight=0.5" alt="languages graph" />
     <!-- <img src="https://github-stats-extended.vercel.app/api/top-langs?username=dev-alexmachado&layout=pie&langs_count=6&theme=one_dark_pro&hide=jupyter%20notebook,TypeScript,Portugol&locale=pt-br&langs_count=6&hide_border=false&layout=pie&custom_title=Porcentagem&size_weight=0.5&count_weight=0.5" alt="languages graph" /> -->
     <img src="https://github-stats-extended.vercel.app/api/top-langs?username=dev-alexmachado&langs_count=6&theme=github_dark_dimmed&hide=jupyter%20notebook,TypeScript,Portugol&locale=pt-br&langs_count=7&layout=normal&stats_format=bytes&custom_title=Tamanho&hide_border=false&size_weight=0.5&count_weight=0.5" alt="languages graph"/>
     <!-- <img src="https://github-stats-extended.vercel.app/api/top-langs?username=dev-alexmachado&langs_count=7&theme=github_dark_dimmed&hide=jupyter%20notebook,TypeScript,Portugol&locale=pt-br&langs_count=7&hide_border=false&layout=normal&stats_format=bytes&custom_title=Tamanho&size_weight=0.5&count_weight=0.5" alt="languages graph"/> -->
