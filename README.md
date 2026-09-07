@@ -185,14 +185,14 @@
 
 ---
 
-## 🎮 Snake
+## 🎮 Bomberman
 
-<!-- <a href="https://abozanona.github.io/pacman-contribution-graph/">
-  <img src="img/acrade-breakout.svg" alt="Breakout">
-</a> -->
-<a href="https://github.com/platane/snk">
-  <img src="img/arcade-snake.svg" alt="Snake">
+<a href="https://abozanona.github.io/pacman-contribution-graph/">
+  <img src="img/acrade-bomberman.svg" alt="Bomberman">
 </a>
+<!-- <a href="https://github.com/platane/snk">
+  <img src="img/arcade-snake.svg" alt="Snake">
+</a> -->
 
 
 <!--
