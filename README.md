@@ -173,6 +173,7 @@
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=dev-alexmachado&repo=dev-alexmachado%2Fguia_rapido_python&theme=github_dark_dimmed&hide_border=false)](https://github.com/dev-alexmachado/guia_rapido_python)
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=dev-alexmachado&repo=guia_estrutura_de_pastas&hide_border=false&theme=github_dark_dimmed)](https://github.com/dev-alexmachado/guia_estrutura_de_pastas)
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=dev-alexmachado&repo=guia_rapido_java&description_lines_count=2&hide_border=false&theme=github_dark_dimmed)](https://github.com/dev-alexmachado/guia_rapido_java)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=dev-alexmachado&repo=guia_rapido_aplicacoes_web&theme=github_dark_dimmed)](https://github.com/dev-alexmachado/guia_rapido_aplicacoes_web)
 
 
 ## 🧑‍🎓 Repositórios das turmas atuais
