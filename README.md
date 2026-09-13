@@ -89,12 +89,14 @@
 ![MySQL](img/mysql-32.png)
 ![SQLite](img/sqlite-32.png)
 ![JSON](img/json_32.png)
+![Markdown](img/icons8-markdown-32.png)
 ![Anaconda](img/anaconda-32.png)
 ![Jupyter](img/jupyter-32.png)
 ![Colab](img/google-colab-32.png)
 ![Kaggle](img/kaggle-32.png)
 ![NumPy](img/numpy-32.png)
 ![Pandas](img/pandas-32.png)
+![OpenCV](img/icons8-opencv-32.png)
 
 ### Ferramentas
 
