@@ -56,7 +56,7 @@
   <br>
   <img alt="Static Badge" src="https://img.shields.io/badge/Instrutor%20Operador%20de%20Micro%20%7C%20Eurodata-333?style=plastic&label=2009%20%7C%202010&labelColor=16161D">
   <br>
-  <img alt="Static Badge" src="https://img.shields.io/badge/Est%C3%A1gio_Instrutor_Operador_de_Micro_%7C_IEP_--_Instituto_de_Ensino_Profissionalizante-333?style=plastic&label=2008%20%7C%202009&labelColor=16161d">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Est%C3%A1gio_Instrutor_Operador_de_Micro_%7C_IEP-333?style=plastic&label=2008%20%7C%202009&labelColor=16161d">
   <br>
   <img alt="Static Badge" src="https://img.shields.io/badge/Instrutor_Operador_de_Micro_%7C_New_Value_Inform%C3%A1tica-333?style=plastic&label=2007%20%7C%202008&labelColor=16161d">
   <br>
@@ -151,7 +151,7 @@
 
 <div align="center">
   <a href="https://github.com/stats-organization/github-stats-extended" target="_blank">
-    <img src="https://github-stats-extended.vercel.app/api/top-langs?username=dev-alexmachado&layout=pie&langs_count=6&theme=github_dark_dimmed&hide=jupyter%20notebook,TypeScript,Portugol&locale=pt-br&hide_title=false&langs_count=6&layout=pie&custom_title=Porcentagem&hide_border=false&size_weight=0.5&count_weight=0.5" alt="languages graph" />
+    <img src="https://github-stats-extended.vercel.app/api/top-langs?username=dev-alexmachado&layout=pie&langs_count=6&theme=github_dark_dimmed&hide=jupyter%20notebook,TypeScript,Portugol&locale=pt-br&hide_title=false&langs_count=6&layout=pie&hide_border=false&custom_title=Porcentagem&size_weight=0.5&count_weight=0.5" alt="languages graph" />
     <!-- <img src="https://github-stats-extended.vercel.app/api/top-langs?username=dev-alexmachado&layout=pie&langs_count=6&theme=one_dark_pro&hide=jupyter%20notebook,TypeScript,Portugol&locale=pt-br&langs_count=6&hide_border=false&layout=pie&custom_title=Porcentagem&size_weight=0.5&count_weight=0.5" alt="languages graph" /> -->
     <img src="https://github-stats-extended.vercel.app/api/top-langs?username=dev-alexmachado&langs_count=6&theme=github_dark_dimmed&hide=jupyter%20notebook,TypeScript,Portugol&locale=pt-br&langs_count=7&layout=normal&stats_format=bytes&custom_title=Tamanho&size_weight=0.5&count_weight=0.5" alt="languages graph"/>
     <!-- <img src="https://github-stats-extended.vercel.app/api/top-langs?username=dev-alexmachado&langs_count=7&theme=github_dark_dimmed&hide=jupyter%20notebook,TypeScript,Portugol&locale=pt-br&langs_count=7&hide_border=false&layout=normal&stats_format=bytes&custom_title=Tamanho&size_weight=0.5&count_weight=0.5" alt="languages graph"/> -->
