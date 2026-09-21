@@ -193,10 +193,10 @@
 
 ---
 
-## 🎮 Pac-Man
+## 🎮 Breakout
 
 <a href="https://abozanona.github.io/pacman-contribution-graph/">
-  <img src="img/acrade-pac-man.svg" alt="Pac-Man">
+  <img src="img/acrade-breakout.svg" alt="Breakout">
 </a>
 <!-- <a href="https://github.com/platane/snk">
   <img src="img/arcade-snake.svg" alt="Snake">
