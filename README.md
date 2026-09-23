@@ -153,9 +153,9 @@
 
 <div align="center">
   <a href="https://github.com/stats-organization/github-stats-extended" target="_blank">
-    <img src="https://github-stats-extended.vercel.app/api/top-langs?username=dev-alexmachado&layout=pie&langs_count=6&theme=github_dark_dimmed&hide_border=false&hide=jupyter%20notebook,TypeScript,Portugol&locale=pt-br&hide_title=false&langs_count=6&layout=pie&custom_title=Porcentagem&size_weight=0.5&count_weight=0.5" alt="languages graph" />
+    <img src="https://github-stats-extended.vercel.app/api/top-langs?username=dev-alexmachado&layout=pie&langs_count=6&theme=github_dark_dimmed&hide=jupyter%20notebook,TypeScript,Portugol&locale=pt-br&hide_title=false&langs_count=6&layout=pie&custom_title=Porcentagem&size_weight=0.5&count_weight=0.5" alt="languages graph" />
     <!-- <img src="https://github-stats-extended.vercel.app/api/top-langs?username=dev-alexmachado&layout=pie&langs_count=6&theme=one_dark_pro&hide=jupyter%20notebook,TypeScript,Portugol&locale=pt-br&langs_count=6&hide_border=false&layout=pie&custom_title=Porcentagem&size_weight=0.5&count_weight=0.5" alt="languages graph" /> -->
-    <img src="https://github-stats-extended.vercel.app/api/top-langs?username=dev-alexmachado&langs_count=6&theme=github_dark_dimmed&hide=jupyter%20notebook,TypeScript,Portugol&locale=pt-br&langs_count=7&layout=normal&stats_format=bytes&hide_border=false&custom_title=Tamanho&size_weight=0.5&count_weight=0.5" alt="languages graph"/>
+    <img src="https://github-stats-extended.vercel.app/api/top-langs?username=dev-alexmachado&langs_count=6&theme=github_dark_dimmed&hide=jupyter%20notebook,TypeScript,Portugol&locale=pt-br&langs_count=7&layout=normal&stats_format=bytes&custom_title=Tamanho&size_weight=0.5&count_weight=0.5&hide_border=false" alt="languages graph"/>
     <!-- <img src="https://github-stats-extended.vercel.app/api/top-langs?username=dev-alexmachado&langs_count=7&theme=github_dark_dimmed&hide=jupyter%20notebook,TypeScript,Portugol&locale=pt-br&langs_count=7&hide_border=false&layout=normal&stats_format=bytes&custom_title=Tamanho&size_weight=0.5&count_weight=0.5" alt="languages graph"/> -->
   </a>
 </div>
@@ -183,8 +183,9 @@
 
 ## 🧑‍🎓 Repositórios das turmas atuais
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=dev-alexmachado&repo=dev-alexmachado%2Fextrator_texto_nem&theme=github_dark_dimmed)](https://github.com/dev-alexmachado/extrator_texto_nem)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=dev-alexmachado&repo=dev-alexmachado%2FNEM_Sistema_Santa_Casa_do_Desespero&theme=github_dark_dimmed)](https://github.com/dev-alexmachado/NEM_Sistema_Santa_Casa_do_Desespero)
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=dev-alexmachado&repo=dev-alexmachado%2Falex_machado_cobra_flex&theme=github_dark_dimmed)](https://github.com/dev-alexmachado/alex_machado_cobra_flex)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=dev-alexmachado&repo=dev-alexmachado%2Fextrator_texto_nem&theme=github_dark_dimmed)](https://github.com/dev-alexmachado/extrator_texto_nem)
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=dev-alexmachado&repo=dev-alexmachado%2Fdesenvolvedor_python_qua.544.003&theme=github_dark_dimmed&show=null&hide_border=false)](https://github.com/dev-alexmachado/desenvolvedor_python_qua.544.003)
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=dev-alexmachado&repo=chatao&theme=github_dark_dimmed&hide_border=false)](https://github.com/dev-alexmachado/chatao)
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=dev-alexmachado&repo=dev-alexmachado%2Fnem_git_auto&theme=github_dark_dimmed)](https://github.com/dev-alexmachado/nem_git_auto)
