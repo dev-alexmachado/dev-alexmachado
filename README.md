@@ -184,7 +184,7 @@
 ## 🧑‍🎓 Repositórios das turmas atuais
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=dev-alexmachado&repo=dev-alexmachado%2Fextrator_texto_nem&theme=github_dark_dimmed)](https://github.com/dev-alexmachado/extrator_texto_nem)
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=dev-alexmachado&repo=alex_machado_cobra_flex&theme=github_dark_dimmed)](https://github.com/dev-alexmachado/alex_machado_cobra_flex)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=dev-alexmachado&repo=dev-alexmachado%2Falex_machado_cobra_flex&theme=github_dark_dimmed)](https://github.com/dev-alexmachado/alex_machado_cobra_flex)
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=dev-alexmachado&repo=dev-alexmachado%2Fdesenvolvedor_python_qua.544.003&theme=github_dark_dimmed&show=null&hide_border=false)](https://github.com/dev-alexmachado/desenvolvedor_python_qua.544.003)
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=dev-alexmachado&repo=chatao&theme=github_dark_dimmed&hide_border=false)](https://github.com/dev-alexmachado/chatao)
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=dev-alexmachado&repo=dev-alexmachado%2Fnem_git_auto&theme=github_dark_dimmed)](https://github.com/dev-alexmachado/nem_git_auto)
