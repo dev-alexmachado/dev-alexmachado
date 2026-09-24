@@ -13,6 +13,15 @@
 
 ## 🪪 Quem sou eu?
 
+~~~json
+eu = {
+  'nome': "Alex Machado Ribeiro",
+  'profissão': "Programador/Consultor/Instrutor",
+  'experiência': "Desde 2006",
+  'linguagens': ["Python","Java","JavaScript","PHP","C#"]
+}
+~~~
+
 <a href="https://portaleducacao.sistemafibra.org.br/FrameHTML/web/app/Edu/PortaldoProfessor/#/login">
   <img src="img/computer-code.png" alt="Link para novo portal docente" min-width="350px" max-width="350px" width="350px" align="right" style="margin-left: 50px">
 </a>
@@ -153,7 +162,7 @@
 
 <div align="center">
   <a href="https://github.com/stats-organization/github-stats-extended" target="_blank">
-    <img src="https://github-stats-extended.vercel.app/api/top-langs?username=dev-alexmachado&layout=pie&langs_count=6&theme=github_dark_dimmed&hide=jupyter%20notebook,TypeScript,Portugol&locale=pt-br&hide_title=false&langs_count=6&layout=pie&custom_title=Porcentagem&size_weight=0.5&count_weight=0.5" alt="languages graph" />
+    <img src="https://github-stats-extended.vercel.app/api/top-langs?username=dev-alexmachado&layout=pie&langs_count=6&theme=github_dark_dimmed&hide=jupyter%20notebook,TypeScript,Portugol&locale=pt-br&hide_title=false&langs_count=6&layout=pie&custom_title=Porcentagem&size_weight=0.5&count_weight=0.5&hide_border=false" alt="languages graph" />
     <!-- <img src="https://github-stats-extended.vercel.app/api/top-langs?username=dev-alexmachado&layout=pie&langs_count=6&theme=one_dark_pro&hide=jupyter%20notebook,TypeScript,Portugol&locale=pt-br&langs_count=6&hide_border=false&layout=pie&custom_title=Porcentagem&size_weight=0.5&count_weight=0.5" alt="languages graph" /> -->
     <img src="https://github-stats-extended.vercel.app/api/top-langs?username=dev-alexmachado&langs_count=6&theme=github_dark_dimmed&hide=jupyter%20notebook,TypeScript,Portugol&locale=pt-br&langs_count=7&layout=normal&stats_format=bytes&custom_title=Tamanho&size_weight=0.5&count_weight=0.5&hide_border=false" alt="languages graph"/>
     <!-- <img src="https://github-stats-extended.vercel.app/api/top-langs?username=dev-alexmachado&langs_count=7&theme=github_dark_dimmed&hide=jupyter%20notebook,TypeScript,Portugol&locale=pt-br&langs_count=7&hide_border=false&layout=normal&stats_format=bytes&custom_title=Tamanho&size_weight=0.5&count_weight=0.5" alt="languages graph"/> -->
