@@ -13,7 +13,7 @@
 
 ## 🪪 Quem sou eu?
 
-~~~json
+~~~python
 eu = {
   'nome': "Alex Machado Ribeiro",
   'profissão': "Programador/Consultor/Instrutor",
