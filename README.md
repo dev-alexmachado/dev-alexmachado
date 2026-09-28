@@ -16,8 +16,8 @@
 ~~~python
 eu = {
   'nome': "Alex Machado Ribeiro",
-  'profissão': "Programador/Consultor/Instrutor",
-  'experiência': "Desde 2006",
+  'profissão': ["Programador","Consultor","Instrutor"],
+  'formação': "Bacharel em Sistemas de Informação",
   'linguagens': ["Python","Java","JavaScript","PHP","C#"]
 }
 ~~~
@@ -154,9 +154,6 @@ eu = {
   O livro está disponível em e-book, kindle unlimited e capa comum <a href="https://www.amazon.com.br/Dossi%C3%AA-Python-Zero-Projeto-Flask-ebook/dp/B0HB98TZBR/ref=tmm_kin_swatch_0?_encoding=UTF8&dib_tag=se&dib=eyJ2IjoiMSJ9.vD_tRVW_joAzf7agUEkpUQ.Xjin22abUCqijY8A6E0sH4X5bh44E60OG1pDAETHUHw&qid=1785261162&sr=8-1" target="_blank">neste link</a>.
 </p>
 
-> [!TIP]
-> A versão capa comum do livro se encontra atualmente 33 reais mais barato que o de lançamento! 😉
-
 
 ## 👨‍💻 Linguagens mais usadas
 
@@ -193,6 +190,7 @@ eu = {
 ## 🧑‍🎓 Repositórios das turmas atuais
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=dev-alexmachado&repo=dev-alexmachado%2FNEM_Sistema_Santa_Casa_do_Desespero&theme=github_dark_dimmed)](https://github.com/dev-alexmachado/NEM_Sistema_Santa_Casa_do_Desespero)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=dev-alexmachado&repo=sistema_django_noturno&theme=github_dark_dimmed)](https://github.com/dev-alexmachado/sistema_django_noturno)
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=dev-alexmachado&repo=dev-alexmachado%2Falex_machado_cobra_flex&theme=github_dark_dimmed)](https://github.com/dev-alexmachado/alex_machado_cobra_flex)
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=dev-alexmachado&repo=dev-alexmachado%2Fextrator_texto_nem&theme=github_dark_dimmed)](https://github.com/dev-alexmachado/extrator_texto_nem)
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=dev-alexmachado&repo=dev-alexmachado%2Fdesenvolvedor_python_qua.544.003&theme=github_dark_dimmed&show=null&hide_border=false)](https://github.com/dev-alexmachado/desenvolvedor_python_qua.544.003)
@@ -204,10 +202,10 @@ eu = {
 
 ---
 
-## 🎮 Breakout
+## 🎮 Galaga
 
 <a href="https://abozanona.github.io/pacman-contribution-graph/">
-  <img src="img/acrade-breakout.svg" alt="Breakout">
+  <img src="img/acrade-galaga.svg" alt="Breakout">
 </a>
 <!-- <a href="https://github.com/platane/snk">
   <img src="img/arcade-snake.svg" alt="Snake">
