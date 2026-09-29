@@ -13,14 +13,16 @@
 
 ## 🪪 Quem sou eu?
 
-~~~python
+<!-- ~~~python
 info = {
   'nome': "Alex Machado Ribeiro",
   'profissão': ["Programador","Consultor","Instrutor"],
   'formação': "Bacharel em Sistemas de Informação",
   'linguagens': ["Python","Java","JavaScript","PHP","C#"]
 }
-~~~
+~~~ -->
+
+<img src="img/laptop_realistic_terminal.gif" alt="git" width="100%">
 
 <a href="https://portaleducacao.sistemafibra.org.br/FrameHTML/web/app/Edu/PortaldoProfessor/#/login">
   <img src="img/computer-code.png" alt="Link para novo portal docente" min-width="350px" max-width="350px" width="350px" align="right" style="margin-left: 50px">
