@@ -78,7 +78,15 @@ info = {
 
 ## 💻 Habilidades
 
-### Programação
+| Categoria | Habilidades |
+|-----------|-------------|
+|**Programação**|![Python](img/python-32.png)![Java](img/java-32.png)![JS](img/javascript-32.png)![PHP](img/php-32.png)![C#](img/csharp_32.png)|
+|**Frameworks**|![Flask](img/Flask-32.png)![Django](img/django-32.png)![Spring](img/spring-boot-32.png)![Bootstrap](img/bootstrap-32.png)![Tailwind](img/tailwind-css-32.png)![React](img/react-32.png)|
+|**Análise de Dados**|![Excel](img/microsoft-excel-2025-32.png)![MySQL](img/mysql-32.png)![SQLite](img/sqlite-32.png)![JSON](img/json_32.png)![Markdown](img/icons8-markdown-32.png)![Anaconda](img/anaconda-32.png)![Jupyter](img/jupyter-32.png)![Colab](img/google-colab-32.png)![Kaggle](img/kaggle-32.png)![NumPy](img/numpy-32.png)![Pandas](img/pandas-32.png)![OpenCV](img/icons8-opencv-32.png)|
+|**Ferramentas**|![Visual Studio Code](img/visual-studio-code-32.png)![Visual Studio IDE](img/visual-studio-32.png)![PyCharm](img/pycharm_32.png)![IntelliJ](img/icons8-intellij-idea-32.png)![Eclipse](img/eclipse_ide-32.png)![Windows 11](img/windows-11-32.png)![Git](img/git-32.png)![GitHub](img/github-32.png)![Photoshop](img/photoshop-32.png)|
+|**IA**|![Copilot](img/copilot-32.png)![Gemini](img/gemini-32.png)![Claude](img/claude-32.png)![Blackbox](img/blackbox-32.png)![ChatGPT](img/chatgpt-32.png)|
+
+<!-- ### Programação
 
 ![Python](img/python-32.png)
 ![Java](img/java-32.png)
@@ -93,9 +101,9 @@ info = {
 ![Spring](img/spring-boot-32.png)
 ![Bootstrap](img/bootstrap-32.png)
 ![Tailwind](img/tailwind-css-32.png)
-![React](img/react-32.png)
+![React](img/react-32.png) -->
 
-### Análise de Dados
+<!-- ### Análise de Dados
 
 ![Excel](img/microsoft-excel-2025-32.png)
 ![MySQL](img/mysql-32.png)
@@ -108,9 +116,9 @@ info = {
 ![Kaggle](img/kaggle-32.png)
 ![NumPy](img/numpy-32.png)
 ![Pandas](img/pandas-32.png)
-![OpenCV](img/icons8-opencv-32.png)
+![OpenCV](img/icons8-opencv-32.png) -->
 
-### Ferramentas
+<!-- ### Ferramentas
 
 ![Visual Studio Code](img/visual-studio-code-32.png)
 ![Visual Studio IDE](img/visual-studio-32.png)
@@ -120,15 +128,15 @@ info = {
 ![Windows 11](img/windows-11-32.png)
 ![Git](img/git-32.png)
 ![GitHub](img/github-32.png)
-![Photoshop](img/photoshop-32.png)
+![Photoshop](img/photoshop-32.png) -->
 
-### IA
+<!-- ### IA
 
 ![Copilot](img/copilot-32.png)
 ![Gemini](img/gemini-32.png)
 ![Claude](img/claude-32.png)
 ![Blackbox](img/blackbox-32.png)
-![ChatGPT](img/chatgpt-32.png)
+![ChatGPT](img/chatgpt-32.png) -->
 
 
 ## 📜 Certificações
