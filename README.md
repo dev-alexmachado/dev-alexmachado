@@ -151,9 +151,9 @@ info = {
 
 ## 📖 Livros publicados
 
-| Capa | Título | Descrição |
-|------|--------|-----------|
-|![Dossiê Python](img/livro_dossie_python_120.png)|**Dossiê Python - Do Zero ao Projeto com Flask**|Destinado aos iniciantes que querem sair do zero até criar seu próprio projeto.|
+| Capa | Título | Descrição | Loja |
+|------|--------|-----------|------|
+|![Dossiê Python](img/livro_dossie_python_120.png)|**Dossiê Python - Do Zero ao Projeto com Flask**|Destinado aos iniciantes que querem sair do zero até criar seu próprio projeto.| [Amazon](https://www.amazon.com.br/Dossi%C3%AA-Python-Zero-Projeto-Flask/dp/B0HBGY2NPF/ref=tmm_pap_swatch_0?_encoding=UTF8&dib_tag=se&dib=eyJ2IjoiMSJ9.5D3UBksNs7D-sLlhl0BHHEIyjNlaipTDpJjzywiihJY.vFS2P9pCRebpGwuNvbA4ZPHomg_uyeyqto4W1OguWsE&qid=1790686576&sr=8-1)|
 
 <!-- <p align="center">
   <a href="https://www.amazon.com.br/Dossi%C3%AA-Python-Zero-Projeto-Flask-ebook/dp/B0HB98TZBR/ref=tmm_kin_swatch_0?_encoding=UTF8&dib_tag=se&dib=eyJ2IjoiMSJ9.vD_tRVW_joAzf7agUEkpUQ.Xjin22abUCqijY8A6E0sH4X5bh44E60OG1pDAETHUHw&qid=1785261162&sr=8-1" target="_blank">
