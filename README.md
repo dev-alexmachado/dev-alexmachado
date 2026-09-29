@@ -1,7 +1,8 @@
 # 👋 Olá, Mundo! 🌎
 <p>
   <a href="https://www.readmecodegen.com/">
-    <img src="img/banner.png" alt="banner" style="min-width: 100%" />
+    <!-- <img src="img/banner.png" alt="banner" style="min-width: 100%" /> -->
+    <img src="img/banner.gif" alt="banner" style="min-width: 100%" />
   </a>
 </p>
 
@@ -22,7 +23,7 @@ info = {
 }
 ~~~ -->
 
-<img src="img/laptop_realistic_terminal.gif" alt="git" width="100%">
+<!-- <img src="img/laptop_realistic_terminal.gif" alt="git" width="100%"> -->
 
 <a href="https://portaleducacao.sistemafibra.org.br/FrameHTML/web/app/Edu/PortaldoProfessor/#/login">
   <img src="img/computer-code.png" alt="Link para novo portal docente" min-width="350px" max-width="350px" width="350px" align="right" style="margin-left: 50px">
