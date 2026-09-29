@@ -153,7 +153,7 @@ info = {
 
 | Capa | Título | Descrição |
 |------|--------|-----------|
-|![Dossiê Python](img/livro_dossie_python_100.png)|**Dossiê Python - Do Zero ao Projeto com Flask**|Destinado aos iniciantes que querem sair do zero até criar seu próprio projeto.|
+|![Dossiê Python](img/livro_dossie_python_120.png)|**Dossiê Python - Do Zero ao Projeto com Flask**|Destinado aos iniciantes que querem sair do zero até criar seu próprio projeto.|
 
 <!-- <p align="center">
   <a href="https://www.amazon.com.br/Dossi%C3%AA-Python-Zero-Projeto-Flask-ebook/dp/B0HB98TZBR/ref=tmm_kin_swatch_0?_encoding=UTF8&dib_tag=se&dib=eyJ2IjoiMSJ9.vD_tRVW_joAzf7agUEkpUQ.Xjin22abUCqijY8A6E0sH4X5bh44E60OG1pDAETHUHw&qid=1785261162&sr=8-1" target="_blank">
