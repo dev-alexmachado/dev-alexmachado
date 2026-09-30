@@ -2,7 +2,7 @@
 <p>
   <a href="https://www.readmecodegen.com/">
     <!-- <img src="img/banner.png" alt="banner" style="min-width: 100%" /> -->
-    <img src="img/banner_v2.1.gif" alt="banner" style="min-width: 100%" />
+    <img src="img/banner_github.gif" alt="banner" style="min-width: 100%" />
   </a>
 </p>
 
