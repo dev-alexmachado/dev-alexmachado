@@ -217,48 +217,11 @@ info = {
 
 ---
 
-## 🎮 Snake
+## 🎮 Bomberman
 
-## Pac-Man
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dev-alexmachado/dev-alexmachado/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dev-alexmachado/dev-alexmachado/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/dev-alexmachado/dev-alexmachado/output/pacman-contribution-graph.svg">
-</picture>
-
-## Breakout
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dev-alexmachado/dev-alexmachado/output/breakout-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dev-alexmachado/dev-alexmachado/output/breakout-contribution-graph.svg">
-  <img alt="breakout contribution graph" src="https://raw.githubusercontent.com/dev-alexmachado/dev-alexmachado/output/breakout-contribution-graph.svg">
-</picture>
-
-## Galaga
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dev-alexmachado/dev-alexmachado/output/galaga-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dev-alexmachado/dev-alexmachado/output/galaga-contribution-graph.svg">
-  <img alt="galaga contribution graph" src="https://raw.githubusercontent.com/dev-alexmachado/dev-alexmachado/output/galaga-contribution-graph.svg">
-</picture>
-
-## Puzzle Bobble
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dev-alexmachado/dev-alexmachado/output/puzzle-bobble-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dev-alexmachado/dev-alexmachado/output/puzzle-bobble-contribution-graph.svg">
-  <img alt="puzzle bobble contribution graph" src="https://raw.githubusercontent.com/dev-alexmachado/dev-alexmachado/output/puzzle-bobble-contribution-graph.svg">
-</picture>
-
-## Bomberman
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dev-alexmachado/dev-alexmachado/output/bomberman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dev-alexmachado/dev-alexmachado/output/bomberman-contribution-graph.svg">
-  <img alt="bomberman contribution graph" src="https://raw.githubusercontent.com/dev-alexmachado/dev-alexmachado/output/bomberman-contribution-graph.svg">
-</picture>
-
-_generated with [abozanona/pacman-contribution-graph](https://abozanona.github.io/pacman-contribution-graph/)_
-
-<!-- <a href="https://abozanona.github.io/pacman-contribution-graph/">
-  <img src="img/acrade-galaga.svg" alt="Breakout">
-</a> -->
+<a href="https://abozanona.github.io/pacman-contribution-graph/">
+  <img src="img/arcade-bomberman.svg" alt="Bomberman">
+</a>
 <!-- <a href="https://github.com/platane/snk">
   <img src="img/arcade-snake.svg" alt="Snake">
 </a> -->
