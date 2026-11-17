@@ -215,10 +215,10 @@ info = {
 
 ---
 
-## 🎮 Tetris
+## 🎮 Snake
 
 <a href="https://abozanona.github.io/pacman-contribution-graph/">
-  <img src="img/acrade-tetris.svg" alt="Tetris">
+  <img src="img/acrade-snake.svg" alt="Snake">
 </a>
 <!-- <a href="https://github.com/platane/snk">
   <img src="img/arcade-snake.svg" alt="Snake">
