@@ -206,11 +206,11 @@ info = {
 
 ## 🧑‍🎓 Repositórios das turmas atuais
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=dev-alexmachado&repo=logica_de_programacao_tec.029.001&theme=github_dark_dimmed)](https://github.com/dev-alexmachado/logica_de_programacao_tec.029.001)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=dev-alexmachado&repo=logica_de_programacao_tec.029.001&theme=github_dark_dimmed&description_lines_count=3)](https://github.com/dev-alexmachado/logica_de_programacao_tec.029.001)
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=dev-alexmachado&repo=qua544005_gitergeist&theme=github_dark_dimmed)](https://github.com/dev-alexmachado/qua544005_gitergeist)
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=dev-alexmachado&repo=auto_flask_alex_machado_qua544005&theme=github_dark_dimmed)](https://github.com/dev-alexmachado/auto_flask_alex_machado_qua544005)
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=dev-alexmachado&repo=imc_alex_machado_qua544005&theme=github_dark_dimmed)](https://github.com/dev-alexmachado/imc_alex_machado_qua544005)
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=dev-alexmachado&repo=desenvolvedor_python_qua.544.005&theme=github_dark_dimmed)](https://github.com/dev-alexmachado/desenvolvedor_python_qua.544.005)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=dev-alexmachado&repo=imc_alex_machado_qua544005&theme=github_dark_dimmed&description_lines_count=3)](https://github.com/dev-alexmachado/imc_alex_machado_qua544005)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=dev-alexmachado&repo=desenvolvedor_python_qua.544.005&theme=github_dark_dimmed&description_lines_count=3)](https://github.com/dev-alexmachado/desenvolvedor_python_qua.544.005)
 
 
 ## Desafios Hackathons
