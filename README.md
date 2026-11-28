@@ -175,7 +175,7 @@ info = {
 <div align="center">
   <a href="https://github.com/stats-organization/github-stats-extended" target="_blank">
     <!-- <img src="https://github-stats-extended.vercel.app/api/top-langs?username=dev-alexmachado&layout=donut&langs_count=6&theme=github_dark_dimmed&hide=jupyter%20notebook,TypeScript,Portugol&locale=pt-br&hide_title=false&langs_count=6&layout=pie&custom_title=Porcentagem&size_weight=0.5&count_weight=0.5" alt="languages graph" /> -->
-    <img src="https://github-stats-extended.vercel.app/api/top-langs?username=dev-alexmachado&layout=pie&langs_count=8&hide_border=false&theme=github_dark_dimmed&hide=jupyter%20notebook,Portugol,TeX,Batchfile&locale=pt-br&custom_title=Porcentagem&size_weight=0.5&count_weight=0.5" alt="languages graph" />
+    <img src="https://github-stats-extended.vercel.app/api/top-langs?username=dev-alexmachado&layout=pie&hide_border=false&langs_count=8&theme=github_dark_dimmed&hide=jupyter%20notebook,Portugol,TeX,Batchfile&locale=pt-br&custom_title=Porcentagem&size_weight=0.5&count_weight=0.5" alt="languages graph" />
     <img src="https://github-stats-extended.vercel.app/api/top-langs?username=dev-alexmachado&layout=normal&langs_count=8&theme=github_dark_dimmed&hide=jupyter%20notebook,Portugol,TeX,Batchfile&locale=pt-br&custom_title=Tamanho&size_weight=0.5&count_weight=0.5&hide_border=false&stats_format=bytes" alt="languages graph" />
     <!-- <img src="https://github-stats-extended.vercel.app/api/top-langs?username=dev-alexmachado&layout=pie&langs_count=6&theme=one_dark_pro&hide=jupyter%20notebook,TypeScript,Portugol&locale=pt-br&langs_count=6&hide_border=false&layout=pie&custom_title=Porcentagem&size_weight=0.5&count_weight=0.5" alt="languages graph" /> -->
     <!-- <img src="https://github-stats-extended.vercel.app/api/top-langs?username=dev-alexmachado&langs_count=6&theme=github_dark_dimmed&hide=jupyter%20notebook,TypeScript,Portugol&locale=pt-br&langs_count=7&layout=normal&stats_format=bytes&custom_title=Tamanho&size_weight=0.5&count_weight=0.5" alt="languages graph"/> -->
@@ -207,6 +207,7 @@ info = {
 ## 🧑‍🎓 Repositórios das turmas atuais
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=dev-alexmachado&repo=logica_de_programacao_tec.029.001&theme=github_dark_dimmed&description_lines_count=3)](https://github.com/dev-alexmachado/logica_de_programacao_tec.029.001)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=dev-alexmachado&repo=qua544005_tradutor_ocr&description_lines_count=3&theme=github_dark_dimmed)](https://github.com/dev-alexmachado/qua544005_tradutor_ocr)
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=dev-alexmachado&repo=qua544005_gitergeist&theme=github_dark_dimmed)](https://github.com/dev-alexmachado/qua544005_gitergeist)
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=dev-alexmachado&repo=auto_flask_alex_machado_qua544005&theme=github_dark_dimmed)](https://github.com/dev-alexmachado/auto_flask_alex_machado_qua544005)
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=dev-alexmachado&repo=imc_alex_machado_qua544005&theme=github_dark_dimmed&description_lines_count=3)](https://github.com/dev-alexmachado/imc_alex_machado_qua544005)
@@ -219,10 +220,10 @@ info = {
 
 ---
 
-## 🎮 Pacman
+## 🎮 Breakout
 
 <a href="https://abozanona.github.io/pacman-contribution-graph/">
-  <img src="img/arcade-pacman.svg" alt="Pacman">
+  <img src="img/arcade-breakout.svg" alt="Game">
 </a>
 <!-- <a href="https://github.com/platane/snk">
   <img src="img/arcade-snake.svg" alt="Snake">
